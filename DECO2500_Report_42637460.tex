@@ -1,0 +1,92 @@
+\documentclass[a4 paper, 12pt]{article}
+
+\title{DECO2500 - INDIVIDUAL REPORT \\ Feedback 1}
+\author{Tean-louise Cunningham (42637460)}
+\date{17 April 2020}
+
+\usepackage{geometry}
+\geometry{margin=2cm}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{xcolor}
+
+\usepackage{appendix}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,      
+    urlcolor=blue,
+}
+
+\usepackage{standalone}
+\usepackage{pdfpages}
+
+\usepackage{mdframed}
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{1em}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\maketitle
+
+\pagebreak
+\tableofcontents
+
+\pagebreak
+\section{Introduction}
+In the domain of discovering, deciding where to dine out is an important topic that impacts almost everyone’s lives, and most of the time it is time-consuming and frustrating. At least once per week, everyone wants to try somewhere new from lots of different options to have a shared experience with others. However the problem arises with the gap between what users want and need, and how they are supported in fulfilling these. 
+
+From research and interviews, there are 8 factors that are important to almost every user when deciding where to dine out. A user wants to be able to choose what they are craving from a nearby location with easy access to basic information. These factors are all beautifully handled by existing applications, however they focus heavily on reviews when research shows that word-of-mouth recommendations have a greater influence. Additionally, those with dietary requirements (about 20\%) and those with a budget (almost everyone) must search using niche apps or be directed to a menu that they must filter themselves. What results is an average of 15 minutes searching every single time, with budget, dietary requirements and friend recommendations ignored.
+
+This report details the process and feedback of three iterations of the interaction decision process to design an application to support all of the factors that are important to a user when deciding where to dine out. 
+
+% 2 - LOW FIDELITY PROTOTYPE SECTION
+\input{Low_Fidelity/Low_Report/Low_Report}
+
+% 3 - MEDIUM FIDELITY PROTOTYPE SECTION
+
+% 4 - HIGH FIDELITY PROTOTYPE SECTION
+
+
+
+\appendix
+\addappheadtotoc
+
+\pagebreak
+\appendixpage
+\section{Low Fidelity Prototype}
+
+    \subsection{Evaluation Protocol}
+    \begin{mdframed}[linewidth=2pt]
+        \begin{center}
+            \bigskip
+            \Huge            
+            \textbf{EVALUATION PROTOCOL\\
+            Low-Fidelity Prototype}
+            
+            \Large           
+            Tean-louise Cunningham
+        \end{center}
+    \input{Low_Fidelity/Low_Protocol/Low_Protocol} 
+    \end{mdframed}
+
+    \pagebreak
+    \includepdf[pages=1,pagecommand=\subsection{Google Forms}, offset=0 -1.5cm]{Low_Fidelity/Low_Form.pdf}
+    \includepdf[pages=2, ]{Low_Fidelity/Low_Form.pdf}
+
+
+    \pagebreak
+    \includepdf[pages=1,pagecommand=\subsection{Presentation}, offset=0 -1cm]{Low_Fidelity/Low_Slides.pdf}
+    \includepdf[pages=2]{Low_Fidelity/Low_Slides.pdf}
+
+    \pagebreak
+    \subsection{Questionnaire Results}
+
+    \pagebreak
+    \subsection{Interview Notes}
+
+\end{document}
