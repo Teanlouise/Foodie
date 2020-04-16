@@ -1,7 +1,7 @@
-PWD f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report
+PWD f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.tex
-OUTPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.log
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.tex
+OUTPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.log
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
@@ -80,11 +80,13 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.aux
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.aux
-OUTPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.aux
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.aux
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.aux
+OUTPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.aux
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
@@ -93,23 +95,23 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcou
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
-OUTPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
-OUTPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
+OUTPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
+OUTPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.aux
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.out
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.aux
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb

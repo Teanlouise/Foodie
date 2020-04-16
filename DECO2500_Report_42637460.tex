@@ -1,17 +1,21 @@
+% Setup
 \documentclass[a4 paper, 12pt]{article}
-
+% Title
 \title{DECO2500 - INDIVIDUAL REPORT \\ Feedback 1}
 \author{Tean-louise Cunningham (42637460)}
 \date{17 April 2020}
-
+% Margins
 \usepackage{geometry}
 \geometry{margin=2cm}
-
+% Paragraph
+\setlength{\parindent}{2em}
+\setlength{\parskip}{1em}
+% Text Formatting
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
+% Text Color
 \usepackage{xcolor}
-
-\usepackage{appendix}
+% Hyperlinks
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
@@ -19,14 +23,19 @@
     filecolor=black,      
     urlcolor=blue,
 }
-
+% Appendix
+\usepackage{appendix}
+% Include pdf
 \usepackage{standalone}
 \usepackage{pdfpages}
-
+% Borders
 \usepackage{mdframed}
 
-\setlength{\parindent}{2em}
-\setlength{\parskip}{1em}
+% List spacing
+\usepackage{enumitem}
+\setlist{noitemsep, topsep=0pt}
+\setlist[enumerate]{parsep=5pt} 
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -55,21 +64,18 @@ This report details the process and feedback of three iterations of the interact
 
 \appendix
 \addappheadtotoc
-
 \pagebreak
 \appendixpage
 \section{Low Fidelity Prototype}
-
+    \pagebreak
     \subsection{Evaluation Protocol}
-    \begin{mdframed}[linewidth=2pt]
+    \begin{mdframed}[linewidth=1pt]
         \begin{center}
             \bigskip
-            \Huge            
-            \textbf{EVALUATION PROTOCOL\\
-            Low-Fidelity Prototype}
+            \Large \textbf{EVALUATION PROTOCOL\\
+            Low-Fidelity Prototype}            
             
-            \Large           
-            Tean-louise Cunningham
+            \normalsize Tean-louise Cunningham
         \end{center}
     \input{Low_Fidelity/Low_Protocol/Low_Protocol} 
     \end{mdframed}
@@ -87,6 +93,6 @@ This report details the process and feedback of three iterations of the interact
     \subsection{Questionnaire Results}
 
     \pagebreak
-    \subsection{Interview Notes}
+    \includepdf[pages=-,pagecommand=\subsection{Interview Notes}, offset=0 -1.5cm]{Low_Fidelity/Low_Notes.pdf}
 
 \end{document}

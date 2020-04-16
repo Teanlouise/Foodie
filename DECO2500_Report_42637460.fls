@@ -1,7 +1,7 @@
-PWD f:\TEAN\Portfolio\DECO
+PWD f:\TEAN\Portfolio\Foodie
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.tex
-OUTPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.log
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.tex
+OUTPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.log
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
@@ -34,8 +34,6 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\co
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
@@ -80,6 +78,8 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\standalone\standalone.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\standalone\standalone.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
@@ -152,9 +152,11 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\needspace\needs
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\needspace\needspace.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mdframed\md-frame-0.mdf
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mdframed\md-frame-0.mdf
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.aux
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.aux
-OUTPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.aux
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux
+OUTPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
@@ -165,14 +167,14 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcou
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
-OUTPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.pdf
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
-OUTPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
+OUTPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.pdf
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
+OUTPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.sty
@@ -184,8 +186,8 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy1
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.toc
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.toc
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.toc
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.toc
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
@@ -195,107 +197,130 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
-OUTPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.toc
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.tex
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Report\Low_Report.tex
+OUTPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.toc
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.tex
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.tex
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Protocol\Low_Protocol.tex
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Protocol\Low_Protocol.tex
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.tex
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.tex
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Form.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.aux
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
-INPUT f:\TEAN\Portfolio\DECO\DECO2500_Report_42637460.out
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
+INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb

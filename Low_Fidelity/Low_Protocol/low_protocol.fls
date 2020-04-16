@@ -1,7 +1,7 @@
-PWD f:\TEAN\Portfolio\DECO\Low_Protocol
+PWD f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT f:\TEAN\Portfolio\DECO\Low_Protocol\Low_Protocol.tex
-OUTPUT f:\TEAN\Portfolio\DECO\Low_Protocol\Low_Protocol.log
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.tex
+OUTPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.log
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
@@ -34,11 +34,13 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\co
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT f:\TEAN\Portfolio\DECO\Low_Protocol\Low_Protocol.aux
-INPUT f:\TEAN\Portfolio\DECO\Low_Protocol\Low_Protocol.aux
-OUTPUT f:\TEAN\Portfolio\DECO\Low_Protocol\Low_Protocol.aux
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.aux
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.aux
+OUTPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.aux
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
@@ -49,10 +51,10 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
-OUTPUT f:\TEAN\Portfolio\DECO\Low_Protocol\Low_Protocol.pdf
+OUTPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT f:\TEAN\Portfolio\DECO\Low_Protocol\Low_Protocol.aux
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.aux
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
