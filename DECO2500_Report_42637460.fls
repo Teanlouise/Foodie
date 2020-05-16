@@ -17,6 +17,42 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.s
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
@@ -28,12 +64,12 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\e
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
@@ -85,10 +121,6 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\standalone\stan
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\currfile\currfile.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\currfile\currfile.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filehook\filehook.sty
@@ -98,30 +130,6 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\gincltex\ginclt
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\gincltex\gincltex.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\svn-prov\svn-prov.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\svn-prov\svn-prov.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filemod\filemod-expmin.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filemod\filemod-expmin.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty
@@ -152,8 +160,12 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\needspace\needs
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\needspace\needspace.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mdframed\md-frame-0.mdf
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mdframed\md-frame-0.mdf
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
 INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux
 INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux
 OUTPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux
@@ -183,6 +195,18 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
@@ -197,6 +221,15 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 OUTPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.toc
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.tex
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.tex
@@ -204,9 +237,58 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx1
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.tex
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.tex
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Protocol\Low_Protocol.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Form.pdf
@@ -295,30 +377,6 @@ INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Slides.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Results.pdf
@@ -386,16 +444,247 @@ INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
 INPUT f:\TEAN\Portfolio\Foodie\Low_Fidelity\Low_Notes.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Personas.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Scenarios.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\UX_Goals.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Protocol\Med_Protocol.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Form.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
+INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Slides.pdf
 INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux
 INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
 INPUT f:\TEAN\Portfolio\Foodie\DECO2500_Report_42637460.out
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
-INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb

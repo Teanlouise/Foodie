@@ -1,20 +1,38 @@
 % Setup
 \documentclass[a4 paper, 12pt]{article}
+
 % Title
-\title{DECO2500 - INDIVIDUAL REPORT \\ Feedback 1}
+\title{DECO2500 - INDIVIDUAL REPORT \\ Feedback 2}
 \author{Tean-louise Cunningham (42637460)}
 \date{17 April 2020}
+
 % Margins
 \usepackage{geometry}
 \geometry{margin=2cm}
+
+% Images
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[export]{adjustbox}
+\setlength{\intextsep}{5pt plus 2pt minus 2pt}
+\usepackage[font=small,skip=2pt]{caption}
+
 % Paragraph
 \setlength{\parindent}{2em}
 \setlength{\parskip}{1em}
+
 % Text Formatting
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
+
+% List spacing
+\usepackage{enumitem}
+\setlist{noitemsep, topsep=0pt}
+\setlist[enumerate]{parsep=5pt} 
+
 % Text Color
 \usepackage{xcolor}
+
 % Hyperlinks
 \usepackage{hyperref}
 \hypersetup{
@@ -23,18 +41,22 @@
     filecolor=black,      
     urlcolor=blue,
 }
+
 % Appendix
 \usepackage{appendix}
+
 % Include pdf
 \usepackage{standalone}
 \usepackage{pdfpages}
+
 % Borders
 \usepackage{mdframed}
 
-% List spacing
-\usepackage{enumitem}
-\setlist{noitemsep, topsep=0pt}
-\setlist[enumerate]{parsep=5pt} 
+% Columns
+\usepackage{multicol}
+
+% Shapes
+\usepackage{amssymb}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -56,48 +78,197 @@ This report details the process and feedback of three iterations of the interact
 \input{Low_Fidelity/Low_Report/Low_Report}
 
 % 3 - MEDIUM FIDELITY PROTOTYPE SECTION
-
+%\input{Med_Fidelity/Med_Report/Med_Report}
 % 4 - HIGH FIDELITY PROTOTYPE SECTION
 
 
 
 \appendix
 \addappheadtotoc
-\pagebreak
 
+% LOW FIDELITY 
+% Title
+\pagebreak
 \begin{center}
     \vspace*{\stretch{0.7}}
     \Huge \textbf{Appendices}
-\section{Low Fidelity Prototype}
-\vspace*{\stretch{1}}
+    \section{Low Fidelity Prototype}
+    \vspace*{\stretch{1}}
 \end{center}
+
+    % Evaluation Protocol
     \pagebreak
-    \subsection{Evaluation Protocol}
-    \begin{mdframed}[linewidth=2pt]
-        \begin{center}
-            \bigskip
-            \Large \textbf{EVALUATION PROTOCOL\\
-            Low-Fidelity Prototype}            
+    % \subsection{Evaluation Protocol}
+    % \begin{mdframed}[linewidth=2pt]
+    %     \begin{center}
+    %         \bigskip
+    %         \Large \textbf{EVALUATION PROTOCOL\\
+    %         Low-Fidelity Prototype}            
             
-            \normalsize Tean-louise Cunningham
-        \end{center}
-    \input{Low_Fidelity/Low_Protocol/Low_Protocol} 
-    \end{mdframed}
+    %         \normalsize Tean-louise Cunningham
+    %     \end{center}
+    % \input{Low_Fidelity/Low_Protocol/Low_Protocol} 
+    % \end{mdframed}
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Evaluation Protocol}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]
+                    {Low_Fidelity/Low_Protocol/Low_Protocol.pdf}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, offset= 0 0cm]
+                    {Low_Fidelity/Low_Protocol/Low_Protocol.pdf}
 
+
+    % Google Forms
     \pagebreak
-    \includepdf[pages=1,pagecommand=\subsection{Google Forms}, offset=0 -1.5cm]{Low_Fidelity/Low_Form.pdf}
-    \includepdf[pages=2, ]{Low_Fidelity/Low_Form.pdf}
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Google Forms}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]
+                    {Low_Fidelity/Low_Form.pdf}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, offset= 0 0cm]
+                    {Low_Fidelity/Low_Form.pdf}
 
-
+    % Presentation
     \pagebreak
-    \includepdf[pages=1,pagecommand=\subsection{Presentation}, offset=0 -1cm]{Low_Fidelity/Low_Slides.pdf}
-    \includepdf[pages=2]{Low_Fidelity/Low_Slides.pdf}
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Presentation}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame]
+                    {Low_Fidelity/Low_Slides.pdf}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, ]
+                    {Low_Fidelity/Low_Slides.pdf}
 
-    \pagebreak
-    \includepdf[pages=1,pagecommand=\subsection{Questionnaire Results}, offset=0 -1cm]{Low_Fidelity/Low_Results.pdf}
-    \includepdf[pages=2-]{Low_Fidelity/Low_Results.pdf}
+        % Questionnaire Results
+        \pagebreak
+        \includepdf[pages=1, 
+                pagecommand=\subsection{Questionnaire Results}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame]
+                    {Low_Fidelity/Low_Results.pdf}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, ]
+                    {Low_Fidelity/Low_Results.pdf}
 
+    % Notes
     \pagebreak
     \includepdf[pages=-,pagecommand=\subsection{Interview Notes}, offset=0 -1.5cm]{Low_Fidelity/Low_Notes.pdf}
+
+
+% MEDIUM FIDELITY 
+% Title
+\pagebreak
+\begin{center}
+    \vspace*{\stretch{0.7}}
+    \Huge \textbf{Appendices}
+    \section{Medium Fidelity Prototype}
+    \vspace*{\stretch{1}}
+\end{center}
+
+    % Personas
+    \pagebreak
+    \includepdf[pages=-, 
+                angle=90, 
+                pagecommand=\subsection{Personas}, width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]{Med_Fidelity/Personas.pdf}
+
+    % Interaction Scenarios
+    \pagebreak    
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Interaction Scenarios}, width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]{Med_Fidelity/Scenarios.pdf}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, offset= 0 0cm]{Med_Fidelity/Scenarios.pdf}
+
+    % UX Goals
+    \pagebreak    
+    \includepdf[pages=1, 
+                pagecommand=\subsection{UX Goals}, width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]{Med_Fidelity/UX_Goals.pdf}
+
+    % Evaluation Protocol
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Evaluation Protocol}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]
+                    {Med_Fidelity/Med_Protocol/Med_Protocol.pdf}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, offset= 0 0cm]
+                    {Med_Fidelity/Med_Protocol/Med_Protocol.pdf}
+
+    % Google Forms
+    \pagebreak
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Google Forms}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]{Med_Fidelity/Med_Form.pdf}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, offset= 0 0cm]{Med_Fidelity/Med_Form.pdf}
+
+
+
+
+    % Presentation
+    \pagebreak
+    \includepdf[pages=1, 
+    pagecommand=\subsection{Presentation}, 
+    width=\textwidth,
+    height=\textheight,
+    keepaspectratio, 
+    frame, offset= 0 -0.5cm]{Med_Fidelity/Med_Slides.pdf}
+
+
+    % Questionnaire Results
+    \pagebreak
+    % \includepdf[pages=1,pagecommand=\subsection{Questionnaire Results}, offset=0 -1cm]{Med_Fidelity/Med_Results.pdf}
+    % \includepdf[pages=2-]{Med_Fidelity/Med_Results.pdf}
+
+    % Notes
+    \pagebreak
+    % \includepdf[pages=-,pagecommand=\subsection{Interview Notes}, offset=0 -1.5cm]{Med_Fidelity/Med_Notes.pdf}
+
+
+
 
 \end{document}
