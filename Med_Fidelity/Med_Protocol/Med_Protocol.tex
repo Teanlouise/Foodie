@@ -1,0 +1,266 @@
+\documentclass[a4 paper, 10pt]{article}
+
+\title{\textbf{EVALUATION PROTOCOL \\ Medium Fidelity Prototype}}
+\author{Tean-louise Cunningham (42637460)}
+\date{}
+
+\usepackage{geometry}
+\geometry{margin=0.5cm}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{xcolor}
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+
+\usepackage{enumitem}
+\setlist{noitemsep, topsep=0pt}
+\setlist[enumerate]{parsep=5pt} 
+
+\usepackage{multicol}
+\usepackage{amssymb}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\maketitle
+\begin{center}
+Complete a think aloud evaluation accompanied by SUS Questionnaire of a medium fidelity prototype to identify gaps between conceptual and mental models.
+\end{center}
+
+\section*{PREPARATION}
+Since this is an individual evaluation only myself and the participant will be involved. Therefore, I will be fulfilling the role of facilitation, observation, recording and interaction flow. The following materials will be prepared for the user prior to the evaluation.
+
+\begin{enumerate}
+    \item Electronic consent form
+    \item Digital medium fidelity prototype
+    \item Figma prototype presentation
+    \item SUS questionnaire
+    \item Google forms
+    \item Zoom software
+\end{enumerate}
+
+\section*{INTRODUCTION}
+
+    \subsection*{Opening Statement}
+
+        \textcolor{lightgray}{User has been sent a link with survey and instructions on Google Forms. User’s screen is being shared over an online conference call.}
+
+        \begin{itshape}
+            Thank you for taking the time today to provide some feedback on the early stages of a mobile application. The purpose of this app is to assist you with deciding where to dine out using an interactive map, filtered preferences and comparison feature.
+
+            Today, I will be showing you the first digital prototype of this application to observe your interaction with it and evaluate its usability.
+        \end{itshape}
+
+    \subsection*{Consent}
+        \begin{itshape}
+            Before we get started, please read carefully through this consent form. It reiterates the purpose for today and how your data will be used. Your personal details will not be used directly in any way and all observations are of your interaction with the software only. If you like to proceed with contributing please fill out this form and upload with the given link.
+        \end{itshape}
+
+        \textcolor{lightgray}
+            {User reads through and fills out consent electronically with provided link and uploads.}
+        
+        \begin{itshape}
+            Thanks for filling that out, please save it on your computer for the time being. If it any time you don’t wish to continue just let me know and we will stop, and none of your feedback will be used. A reminder that I am only testing the software and not evaluating you.
+        \end{itshape}
+
+\section*{THINK ALOUD}
+    \subsection*{Instructions}
+    Now its time to look at the prototype. Click next and you will be taken to the next section of the form where you will find a link. This link will take you to the prototype. 
+
+    Pretend that you have just downloaded this app and you want to see what you can do with it. Say everything out loud that you are thinking. For example, "I think this button does this", "When I click this button I think I am going to go here", "Now I am looking for how to do this". As it is still in the design stage not every button will work, however, the important part of this exercise is for me to understand how you think you should you be able to use it and what you expect each part of the app to do.
+
+    As you go move to each new page on the the app I will also be asking you some questions to help me rate how whether the app is providing you the best user experience. For each question please give an answer between 1 and 5, with 5 being strongly agree and 1 strongly disagree. Do you have any questions? 
+
+    \textcolor{lightgray}
+    {User is able to find the link and has no questions.}
+
+    You can start. Remember to talk about anything big or small.
+
+    \subsection*{Observations}
+    As the user talks out loud while walking through the application it is important that notes of all factors are recorded. The notes are separated by page and components.
+
+    \begin{multicols}{2}
+        \begin{itemize}
+            \item Text
+                \begin{itemize}
+                    \item Did the user understand the text?
+                    \item Did the user think their was too much text?
+                    \item Could the user read the text?
+                \end{itemize}
+            \item Button
+                \begin{itemize}
+                    \item Did the user know what each button did?
+                    \item Did each button take the user where they expected?
+                    \item Did the user select all the buttons?
+                    \item Was the user able to easily select the buttons?
+                    \item Were there enough buttons for the user?
+                \end{itemize}
+            \columnbreak
+            \item Icons
+                \begin{itemize}
+                    \item Did the user understand all the icons?
+                    \item Were the icons what they expected?
+                    \item Were the icons familiar?
+                \end{itemize} 
+            \item Tabs
+                \begin{itemize}
+                    \item Did the user like the number of tabs?
+                    \item Did the user use all the tabs?
+                    \item Did the tabs take them where they expected?
+                \end{itemize} 
+        \end{itemize}
+    \end{multicols}
+
+    \subsection*{UX Measures}
+    There are two measures for the UX goals outlined in Appendix B.3; survey questions and clicks. These have been separated to the appropriate pages. Firstly, as the user is using the app, note the number of clicks for each of the basic functionality actions (white squares). Secondly, after the user has moved forward to a new page, the relevant UX survey questions for the previous page will be asked. These questions are rated between 1 and 5, with 5 being strongly agree (they are noted with black square). The results are recorded quantality by the interviewer to reduce the load of the user. Any additional clarification can be asked at the same time. 
+
+    \begin{multicols}{2}
+        \renewcommand{\labelitemi}{$\blacksquare$}
+        \begin{enumerate}
+            \item Filter
+                \begin{itemize}
+                    \item I was able to choose a based on my diet.
+                    \item I was able to choose a based on my craving.
+                    \item I was able to choose a based on my budget.
+                    \item I was able to search in my area of interest.
+                    \item[$\square$] User chose a dietary
+                    \item[$\square$] User chose a cuisine
+                    \item[$\square$] User entered a postcode 
+                \end{itemize}
+            \item Map
+                \begin{itemize}
+                    \item It was clear the map was filtered by preference for ‘dietary’
+                    \item It was clear the map was filtered by preference for ‘cuisine’
+                    \item I had no trouble finding places near my location.     
+                    \item[$\square$] User changed filter for dietary on map
+                    \item[$\square$] User changed filter for cuisine on map
+                    \item[$\square$] User understood how to use interactive map
+                    \item[$\square$] User changed location
+                    \item[$\square$] Number of places clicked
+                    \item[$\square$] User clicked on filter to change price
+                \end{itemize}
+            \item Restaurant
+                \begin{itemize}
+                    \item It was clear friend’s recommendations were available.
+                    \item I could easily add places to compare.
+                    
+                    \item[$\square$] User looked at friends recommendations.
+                    \item[$\square$] User added to compare
+                \end{itemize}
+            \item Menu
+                \begin{itemize}
+                    \item I had no trouble finding the menu of the selected restaurant.
+                    \item I had no trouble finding the prices on menu.
+                    \item I was happy the menu was filtered based on preference.
+                    \item I was happy  the menu was embedded in the app.
+                    \item It was clear the menu was filtered by preference for ‘dietary’
+                    \item It was clear the menu was filtered by preference for ‘cuisine’
+                    
+                    \item[$\square$] User selected filters
+                    \item[$\square$] User changed filter for dietary on menu
+                    \item[$\square$] User changed filter for cuisine on menu
+                    \item[$\square$] User changed filter for price on menu
+                    \item[$\square$] User scrolled through menu
+                    \item[$\square$] User selected menu
+                \end{itemize}
+            \item Deals
+                \begin{itemize}
+                    \item I had no trouble finding the deals of the restaurant.
+                    \item It was clear the deals were filtered based on my day.
+                    \item I was happy I was only shown the deal relevant to my day.
+                    
+                    \item[$\square$] User selected deals tab
+                    \item[$\square$] User changed filters for day on deals
+                    \item[$\square$] User added to compare from this page
+                \end{itemize}
+            \item About
+                \begin{itemize}
+                    \item I had no trouble finding the information of the restaurant.
+                    
+                    \item[$\square$] User selected about tab
+                    \item[$\square$] User added on this page
+                    \item[$\square$] User went back to about
+                \end{itemize}
+            \item Compare
+                \begin{itemize}
+                    \item I was happy with the number of options I could compare.
+                    \item I could easily compare options in one glance.
+                    \item I could easily share my options with friends.
+                    
+                    \item[$\square$] User looked at compare
+                    \item[$\square$] User selected option in list
+                    \item[$\square$] User selected share.
+                \end{itemize}
+
+            \item Profile
+                \begin{itemize}
+                    \item I had no trouble finding places I had visited before.
+                    
+                    \item[$\square$] User selects profile
+                    \item[$\square$] User selects history
+                \end{itemize}
+            \item Recommend
+                \begin{itemize}
+                    \item I could easily recommend a place after visiting.
+                    \item It was clear how the recommendation system worked.
+                    \item I would recommend this app to friends.
+                    \item I would be happy to be nudged with the notification.
+                    \item I would use this recommendation system.
+                    
+                    \item[$\square$] User chose yes or no
+                \end{itemize}
+
+    \item \textbf{Overall:}
+        \begin{itemize}
+            \item I could easily access restaurant’s information when needed.
+            \item I could easily find new places.
+            \item The application offered clear guidance.
+            \item I had access to everything I wanted to know about it.
+            \item I was able to choose quicker than usual.
+        \end{itemize}
+    \end{enumerate}
+\end{multicols}
+
+\section*{SYSTEM USABILITY SCALE (SUS)}
+    \subsection*{Instructions}
+        \textcolor{lightgray}{The user has completed the task.}
+
+        \begin{itshape}
+            Thank you for completing the task. Now select to go back to the form. Finally, I have some questions to rate your experience and your opinion of the usability of this application. 
+
+            For each question choose a number between 1 and 5, with 1 being strongly disagree and 5 being strongly agree. Please answer honestly. I may follow up with additional questions where necessary. Please take note that the questions alternate in terms of positive and negative responses. 
+        \end{itshape}
+
+    \subsection*{Questionnaire}
+    \begin{multicols}{2}
+        
+    
+        \begin{enumerate}
+            \item I think that I would like to use this system frequently.
+            \item I found the system unnecessarily complex.
+            \item I thought the system was easy to use.
+            \item I think that I would need the support of a technical person to be able to use this system.
+            \item I found the various functions in this system were well integrated.
+            \item I thought there was too much inconsistency in this system.
+            \item I would imagine that most people would learn to use this system very quickly.
+            \item I found the system very cumbersome to use.
+            \item I felt very confident using the system.
+            \item I needed to learn a lot of things before I could get going with this system.
+        \end{enumerate}
+    \end{multicols}
+
+    \subsection*{Questionnaire notes}
+        The quantitative answers from the users will be analysed according to the guidelines for SUS data using excel to create boxplots to view the data. Additionally, any score that is not the highest choice (not 1 or 5 as appropriate) will be followed up with the following questions.
+        \begin{itemize}
+            \item Why did you give this score?
+            \item What stopped you from agreeing/disagreeing strongly?
+        \end{itemize}
+
+
+\section*{Conclusion}
+    \begin{itshape}
+        All done. Thank you so much for your time today. Just a reminder that if you would like to withdraw at any time, let me know and your data will not be used. Thank you for your time, it is greatly appreciated and your data is very valuable.
+    \end{itshape}
+
+\end{document}
