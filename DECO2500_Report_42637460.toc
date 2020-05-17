@@ -1,21 +1,34 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
-\contentsline {section}{\numberline {2}Low Fidelity Prototype}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Evaluation Methods}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Evaluation Protocol}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Evaluation Results}{5}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Evaluation Analysis}{6}{subsection.2.4}%
-\contentsline {section}{Appendices}{7}{section*.2}%
-\contentsline {section}{\numberline {A}Low Fidelity Prototype}{8}{appendix.A}%
-\contentsline {subsection}{\numberline {A.1}Evaluation Protocol}{9}{subsection.A.1}%
-\contentsline {subsection}{\numberline {A.2}Google Forms}{12}{subsection.A.2}%
-\contentsline {subsection}{\numberline {A.3}Presentation}{14}{subsection.A.3}%
-\contentsline {subsection}{\numberline {A.4}Questionnaire Results}{16}{subsection.A.4}%
-\contentsline {subsection}{\numberline {A.5}Interview Notes}{18}{subsection.A.5}%
-\contentsline {section}{\numberline {B}Medium Fidelity Prototype}{19}{appendix.B}%
-\contentsline {subsection}{\numberline {B.1}Personas}{20}{subsection.B.1}%
-\contentsline {subsection}{\numberline {B.2}Interaction Scenarios}{21}{subsection.B.2}%
-\contentsline {subsection}{\numberline {B.3}UX Goals}{25}{subsection.B.3}%
-\contentsline {subsection}{\numberline {B.4}Evaluation Protocol}{26}{subsection.B.4}%
-\contentsline {subsection}{\numberline {B.5}Google Forms}{29}{subsection.B.5}%
-\contentsline {subsection}{\numberline {B.6}Presentation}{31}{subsection.B.6}%
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {section}{\numberline {2}Low Fidelity Prototype}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Evaluation Methods}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Evaluation Protocol}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Evaluation Results}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Evaluation Analysis}{8}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Medium Fidelity Prototype}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Revised Requirements/Conception Design}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Personas}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Interaction Scenarios}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}UX Goals}{14}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Prototype Development}{15}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Evaluation Methods}{16}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Evaluation Protocol}{17}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Evaluation Results}{17}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Evaluation Analysis}{18}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Notes for HIGH}{19}{section.4}%
+\contentsline {section}{Appendices}{19}{section*.10}%
+\contentsline {section}{\numberline {A}Low Fidelity Prototype}{20}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Evaluation Protocol}{21}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Google Forms}{24}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Presentation}{26}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}Questionnaire Results}{28}{subsection.A.4}%
+\contentsline {subsection}{\numberline {A.5}Interview Notes}{30}{subsection.A.5}%
+\contentsline {section}{\numberline {B}Medium Fidelity Prototype}{31}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}Personas}{32}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.2}Interaction Scenarios}{33}{subsection.B.2}%
+\contentsline {subsection}{\numberline {B.3}UX Goals}{37}{subsection.B.3}%
+\contentsline {subsection}{\numberline {B.4}Evaluation Protocol}{38}{subsection.B.4}%
+\contentsline {subsection}{\numberline {B.5}Google Forms}{41}{subsection.B.5}%
+\contentsline {subsection}{\numberline {B.6}Presentation}{43}{subsection.B.6}%
+\contentsline {subsection}{\numberline {B.7}Questionnaire Results}{44}{subsection.B.7}%
+\contentsline {subsection}{\numberline {B.8}Notes}{45}{subsection.B.8}%

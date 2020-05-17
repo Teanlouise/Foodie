@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.7)  16 MAY 2020 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.7)  17 MAY 2020 22:55
 entering extended mode
 **f:/TEAN/Portfolio/Foodie/DECO2500_Report_42637460.tex
 (f:/TEAN/Portfolio/Foodie/DECO2500_Report_42637460.tex
@@ -630,160 +630,208 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/teanm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (f:/TEAN\Portfolio\Foodie\DECO2500_Report_42637460.toc)
+{C:/Users/teanm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (f:/TEAN\Portfolio\Foodie\DECO2500_Report_42637460.toc [2])
 \tf@toc=\write4
 \openout4 = `DECO2500_Report_42637460.toc'.
 
- [2] (f:/TEAN\Portfolio\Foodie\Low_Fidelity/Low_Report/Low_Report.tex [3] [4] [5] [6]) [7] [8]
-<Low_Fidelity/Low_Protocol/Low_Protocol.pdf, id=150, 597.50829pt x 845.0471pt>
+ [3] [4] (f:/TEAN\Portfolio\Foodie\Low_Fidelity/Low_Report/Low_Report.tex [5] [6] [7] [8]) [9] (f:/TEAN\Portfolio\Foodie\Med_Fidelity/Med_Report/Med_Report.tex [10]
+<./Med_Fidelity/Med_Report/images/colour_med.PNG, id=233, 1029.09468pt x 302.63063pt>
+File: ./Med_Fidelity/Med_Report/images/colour_med.PNG Graphic file (type png)
+<use ./Med_Fidelity/Med_Report/images/colour_med.PNG>
+Package pdftex.def Info: ./Med_Fidelity/Med_Report/images/colour_med.PNG  used on input line 100.
+(pdftex.def)             Requested size: 386.95897pt x 113.7956pt.
+<./Med_Fidelity/Med_Report/images/font.PNG, id=235, 553.31718pt x 89.58469pt>
+File: ./Med_Fidelity/Med_Report/images/font.PNG Graphic file (type png)
+<use ./Med_Fidelity/Med_Report/images/font.PNG>
+Package pdftex.def Info: ./Med_Fidelity/Med_Report/images/font.PNG  used on input line 112.
+(pdftex.def)             Requested size: 386.95897pt x 62.65005pt.
+<./Med_Fidelity/Med_Report/images/material_icons.PNG, id=236, 1026.08344pt x 210.03468pt>
+File: ./Med_Fidelity/Med_Report/images/material_icons.PNG Graphic file (type png)
+<use ./Med_Fidelity/Med_Report/images/material_icons.PNG>
+Package pdftex.def Info: ./Med_Fidelity/Med_Report/images/material_icons.PNG  used on input line 124.
+(pdftex.def)             Requested size: 483.69687pt x 99.01115pt.
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 123--126
+ [][] 
+ []
+
+[11 <./Med_Fidelity/Med_Report/images/colour_med.PNG> <./Med_Fidelity/Med_Report/images/font.PNG>]
+Overfull \hbox (14.1632pt too wide) in paragraph at lines 147--148
+[]\OT1/cmr/m/n/12 Icons ac-com-pa-nied by small text - Al-though se-lected icons should be pop-u-lar metaphors,
+ []
+
+[12 <./Med_Fidelity/Med_Report/images/material_icons.PNG>]
+<./Med_Fidelity/Med_Report/images/personas_overview.PNG, id=256, 1494.33281pt x 392.96812pt>
+File: ./Med_Fidelity/Med_Report/images/personas_overview.PNG Graphic file (type png)
+<use ./Med_Fidelity/Med_Report/images/personas_overview.PNG>
+Package pdftex.def Info: ./Med_Fidelity/Med_Report/images/personas_overview.PNG  used on input line 197.
+(pdftex.def)             Requested size: 483.69687pt x 127.19745pt.
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 196--199
+ [][] 
+ []
+
+[13] [14 <./Med_Fidelity/Med_Report/images/personas_overview.PNG>]
+<./Med_Fidelity/Med_Report/images/med_proto_notes.PNG, id=287, 602.25pt x 615.80063pt>
+File: ./Med_Fidelity/Med_Report/images/med_proto_notes.PNG Graphic file (type png)
+<use ./Med_Fidelity/Med_Report/images/med_proto_notes.PNG>
+Package pdftex.def Info: ./Med_Fidelity/Med_Report/images/med_proto_notes.PNG  used on input line 246.
+(pdftex.def)             Requested size: 483.69687pt x 494.59561pt.
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 245--248
+ [][] 
+ []
+
+[15] [16 <./Med_Fidelity/Med_Report/images/med_proto_notes.PNG>] [17] [18]) [19] [20]
+<Low_Fidelity/Low_Protocol/Low_Protocol.pdf, id=335, 597.50829pt x 845.0471pt>
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf  used on input line 118.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf  used on input line 120.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf  used on input line 118.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf  used on input line 120.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<Low_Fidelity/Low_Protocol/Low_Protocol.pdf, id=153, page=1, 597.50829pt x 845.0471pt>
+<Low_Fidelity/Low_Protocol/Low_Protocol.pdf, id=338, page=1, 597.50829pt x 845.0471pt>
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 118.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 120.
 (pdftex.def)             Requested size: 483.69643pt x 684.08469pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 118.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 120.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 118.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 120.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 118.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 120.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 118.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page1 used on input line 120.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
- [9 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Protocol/Low_Protocol.pdf>]
+ [21 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Protocol/Low_Protocol.pdf>]
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf  used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf  used on input line 127.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf  used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf  used on input line 127.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<Low_Fidelity/Low_Protocol/Low_Protocol.pdf, id=181, page=2, 597.50829pt x 845.0471pt>
+<Low_Fidelity/Low_Protocol/Low_Protocol.pdf, id=366, page=2, 597.50829pt x 845.0471pt>
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 127.
 (pdftex.def)             Requested size: 483.69643pt x 684.08469pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 127.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 127.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 127.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page2 used on input line 127.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
- [10 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Protocol/Low_Protocol.pdf>]
-<Low_Fidelity/Low_Protocol/Low_Protocol.pdf, id=191, page=3, 597.50829pt x 845.0471pt>
+ [22 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Protocol/Low_Protocol.pdf>]
+<Low_Fidelity/Low_Protocol/Low_Protocol.pdf, id=376, page=3, 597.50829pt x 845.0471pt>
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 3>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page3 used on input line 124.
-(pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
-File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
-<use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 3>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page3 used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page3 used on input line 127.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 3>
-Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page3 used on input line 124.
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page3 used on input line 127.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
- [11 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Protocol/Low_Protocol.pdf>]
-<Low_Fidelity/Low_Form.pdf, id=196, 598.15468pt x 845.07718pt>
+File: Low_Fidelity/Low_Protocol/Low_Protocol.pdf Graphic file (type pdf)
+<use Low_Fidelity/Low_Protocol/Low_Protocol.pdf, page 3>
+Package pdftex.def Info: Low_Fidelity/Low_Protocol/Low_Protocol.pdf , page3 used on input line 127.
+(pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
+ [23 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Protocol/Low_Protocol.pdf>]
+<Low_Fidelity/Low_Form.pdf, id=381, 598.15468pt x 845.07718pt>
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf  used on input line 135.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf  used on input line 137.
 (pdftex.def)             Requested size: 598.15321pt x 845.07512pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf  used on input line 135.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf  used on input line 137.
 (pdftex.def)             Requested size: 598.15321pt x 845.07512pt.
-<Low_Fidelity/Low_Form.pdf, id=199, page=1, 598.15468pt x 845.07718pt>
+<Low_Fidelity/Low_Form.pdf, id=384, page=1, 598.15468pt x 845.07718pt>
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 135.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 483.71771pt x 683.39983pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 135.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 738.966pt x 1044.01643pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 135.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 738.966pt x 1044.01643pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 135.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 738.966pt x 1044.01643pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 135.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 738.966pt x 1044.01643pt.
- [12 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Form.pdf>]
+ [24 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Form.pdf>]
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf  used on input line 141.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf  used on input line 144.
 (pdftex.def)             Requested size: 598.15321pt x 845.07512pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf  used on input line 141.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf  used on input line 144.
 (pdftex.def)             Requested size: 598.15321pt x 845.07512pt.
-<Low_Fidelity/Low_Form.pdf, id=229, page=2, 598.15468pt x 845.07718pt>
+<Low_Fidelity/Low_Form.pdf, id=414, page=2, 598.15468pt x 845.07718pt>
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 141.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 144.
 (pdftex.def)             Requested size: 483.71771pt x 683.39983pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 141.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 144.
 (pdftex.def)             Requested size: 738.966pt x 1044.01643pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 141.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 144.
 (pdftex.def)             Requested size: 738.966pt x 1044.01643pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 141.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 144.
 (pdftex.def)             Requested size: 738.966pt x 1044.01643pt.
 File: Low_Fidelity/Low_Form.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Form.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 141.
+Package pdftex.def Info: Low_Fidelity/Low_Form.pdf , page2 used on input line 144.
 (pdftex.def)             Requested size: 738.966pt x 1044.01643pt.
- [13 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Form.pdf>]
+ [25 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Form.pdf>]
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Low_Fidelity/Low_Slides.pdf, id=258, 614.295pt x 794.97pt>
+<Low_Fidelity/Low_Slides.pdf, id=443, 614.295pt x 794.97pt>
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf  used on input line 151.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf  used on input line 154.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf  used on input line 151.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf  used on input line 154.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -791,38 +839,38 @@ pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.
 
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Low_Fidelity/Low_Slides.pdf, id=261, page=1, 614.295pt x 794.97pt>
+<Low_Fidelity/Low_Slides.pdf, id=446, page=1, 614.295pt x 794.97pt>
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 151.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 154.
 (pdftex.def)             Requested size: 483.70363pt x 625.9694pt.
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 151.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 154.
 (pdftex.def)             Requested size: 758.9059pt x 982.11356pt.
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 151.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 154.
 (pdftex.def)             Requested size: 758.9059pt x 982.11356pt.
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 151.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 154.
 (pdftex.def)             Requested size: 758.9059pt x 982.11356pt.
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 151.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page1 used on input line 154.
 (pdftex.def)             Requested size: 758.9059pt x 982.11356pt.
-[14 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf>]
+[26 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf>]
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf  used on input line 157.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf  used on input line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf  used on input line 157.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf  used on input line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -830,483 +878,495 @@ pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.
 
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Low_Fidelity/Low_Slides.pdf, id=316, page=2, 614.295pt x 794.97pt>
+<Low_Fidelity/Low_Slides.pdf, id=501, page=2, 614.295pt x 794.97pt>
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 157.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 161.
 (pdftex.def)             Requested size: 483.70363pt x 625.9694pt.
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 157.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 161.
 (pdftex.def)             Requested size: 758.9059pt x 982.11356pt.
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 157.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 161.
 (pdftex.def)             Requested size: 758.9059pt x 982.11356pt.
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 157.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 161.
 (pdftex.def)             Requested size: 758.9059pt x 982.11356pt.
 File: Low_Fidelity/Low_Slides.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Slides.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 157.
+Package pdftex.def Info: Low_Fidelity/Low_Slides.pdf , page2 used on input line 161.
 (pdftex.def)             Requested size: 758.9059pt x 982.11356pt.
-[15 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf>]
-<Low_Fidelity/Low_Results.pdf, id=331, 597.73312pt x 845.40843pt>
+[27 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Slides.pdf>]
+<Low_Fidelity/Low_Results.pdf, id=516, 597.73312pt x 845.40843pt>
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf  used on input line 167.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf  used on input line 171.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf  used on input line 167.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf  used on input line 171.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
-<Low_Fidelity/Low_Results.pdf, id=334, page=1, 597.73312pt x 845.40843pt>
+<Low_Fidelity/Low_Results.pdf, id=519, page=1, 597.73312pt x 845.40843pt>
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 167.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 171.
 (pdftex.def)             Requested size: 483.70514pt x 684.13208pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 167.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 171.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 167.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 171.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 167.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 171.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 167.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page1 used on input line 171.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
- [16 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Results.pdf
+ [28 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Results.pdf
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Results.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf  used on input line 173.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf  used on input line 178.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf  used on input line 173.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf  used on input line 178.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
-<Low_Fidelity/Low_Results.pdf, id=347, page=2, 597.73312pt x 845.40843pt>
+<Low_Fidelity/Low_Results.pdf, id=532, page=2, 597.73312pt x 845.40843pt>
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 173.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 178.
 (pdftex.def)             Requested size: 483.70514pt x 684.13208pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 173.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 178.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 173.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 178.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 173.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 178.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Low_Fidelity/Low_Results.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Results.pdf, page 2>
-Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 173.
+Package pdftex.def Info: Low_Fidelity/Low_Results.pdf , page2 used on input line 178.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
- [17 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Results.pdf
+ [29 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Results.pdf
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Results.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Low_Fidelity/Low_Notes.pdf, id=354, 597.23125pt x 845.1575pt>
+<Low_Fidelity/Low_Notes.pdf, id=539, 597.23125pt x 845.1575pt>
 File: Low_Fidelity/Low_Notes.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Notes.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf  used on input line 177.
+Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf  used on input line 182.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: Low_Fidelity/Low_Notes.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Notes.pdf>
-Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf  used on input line 177.
+Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf  used on input line 182.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<Low_Fidelity/Low_Notes.pdf, id=357, page=1, 597.23125pt x 845.1575pt>
+<Low_Fidelity/Low_Notes.pdf, id=542, page=1, 597.23125pt x 845.1575pt>
 File: Low_Fidelity/Low_Notes.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Notes.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 177.
+Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 182.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: Low_Fidelity/Low_Notes.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Notes.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 177.
+Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 182.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Low_Fidelity/Low_Notes.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Notes.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 177.
+Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 182.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Low_Fidelity/Low_Notes.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Notes.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 177.
+Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 182.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Low_Fidelity/Low_Notes.pdf Graphic file (type pdf)
 <use Low_Fidelity/Low_Notes.pdf, page 1>
-Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 177.
+Package pdftex.def Info: Low_Fidelity/Low_Notes.pdf , page1 used on input line 182.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [18 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Notes.pdf>] [19]
-<Med_Fidelity/Personas.pdf, id=392, 845.07718pt x 597.73312pt>
+ [30 <f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Notes.pdf>] [31]
+<Med_Fidelity/Personas.pdf, id=577, 845.07718pt x 597.73312pt>
 File: Med_Fidelity/Personas.pdf Graphic file (type pdf)
 <use Med_Fidelity/Personas.pdf>
-Package pdftex.def Info: Med_Fidelity/Personas.pdf  used on input line 197.
+Package pdftex.def Info: Med_Fidelity/Personas.pdf  used on input line 203.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 File: Med_Fidelity/Personas.pdf Graphic file (type pdf)
 <use Med_Fidelity/Personas.pdf>
-Package pdftex.def Info: Med_Fidelity/Personas.pdf  used on input line 197.
+Package pdftex.def Info: Med_Fidelity/Personas.pdf  used on input line 203.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
-<Med_Fidelity/Personas.pdf, id=395, page=1, 845.07718pt x 597.73312pt>
+<Med_Fidelity/Personas.pdf, id=580, page=1, 845.07718pt x 597.73312pt>
 File: Med_Fidelity/Personas.pdf Graphic file (type pdf)
 <use Med_Fidelity/Personas.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 197.
-(pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
-File: Med_Fidelity/Personas.pdf Graphic file (type pdf)
-<use Med_Fidelity/Personas.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 197.
+Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 File: Med_Fidelity/Personas.pdf Graphic file (type pdf)
 <use Med_Fidelity/Personas.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 197.
+Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 File: Med_Fidelity/Personas.pdf Graphic file (type pdf)
 <use Med_Fidelity/Personas.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 197.
+Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
 File: Med_Fidelity/Personas.pdf Graphic file (type pdf)
 <use Med_Fidelity/Personas.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 197.
+Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
- [20 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Personas.pdf
+File: Med_Fidelity/Personas.pdf Graphic file (type pdf)
+<use Med_Fidelity/Personas.pdf, page 1>
+Package pdftex.def Info: Med_Fidelity/Personas.pdf , page1 used on input line 203.
+(pdftex.def)             Requested size: 845.07512pt x 597.73166pt.
+ [32 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Personas.pdf
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Med_Fidelity/Personas.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Med_Fidelity/Scenarios.pdf, id=416, 597.73312pt x 845.40843pt>
+<Med_Fidelity/Scenarios.pdf, id=601, 597.73312pt x 845.40843pt>
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf  used on input line 205.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf  used on input line 211.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf  used on input line 205.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf  used on input line 211.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
-<Med_Fidelity/Scenarios.pdf, id=419, page=1, 597.73312pt x 845.40843pt>
+<Med_Fidelity/Scenarios.pdf, id=604, page=1, 597.73312pt x 845.40843pt>
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 205.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 211.
 (pdftex.def)             Requested size: 483.70514pt x 684.13208pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 205.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 211.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 205.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 211.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 205.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 211.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 205.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page1 used on input line 211.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
- [21 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf
+ [33 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf  used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf  used on input line 217.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf  used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf  used on input line 217.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
-<Med_Fidelity/Scenarios.pdf, id=429, page=2, 597.73312pt x 845.40843pt>
+<Med_Fidelity/Scenarios.pdf, id=614, page=2, 597.73312pt x 845.40843pt>
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 217.
 (pdftex.def)             Requested size: 483.70514pt x 684.13208pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page2 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
- [22 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf
+ [34 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Med_Fidelity/Scenarios.pdf, id=435, page=3, 597.73312pt x 845.40843pt>
+<Med_Fidelity/Scenarios.pdf, id=620, page=3, 597.73312pt x 845.40843pt>
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 3>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page3 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page3 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 3>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page3 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page3 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 3>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page3 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page3 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
- [23 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf
+ [35 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Med_Fidelity/Scenarios.pdf, id=441, page=4, 597.73312pt x 845.40843pt>
+<Med_Fidelity/Scenarios.pdf, id=626, page=4, 597.73312pt x 845.40843pt>
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 4>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page4 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page4 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 4>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page4 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page4 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Scenarios.pdf Graphic file (type pdf)
 <use Med_Fidelity/Scenarios.pdf, page 4>
-Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page4 used on input line 210.
+Package pdftex.def Info: Med_Fidelity/Scenarios.pdf , page4 used on input line 217.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
- [24 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf
+ [36 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Med_Fidelity/Scenarios.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Med_Fidelity/UX_Goals.pdf, id=447, 597.432pt x 845.07718pt>
+<Med_Fidelity/UX_Goals.pdf, id=632, 597.432pt x 845.07718pt>
 File: Med_Fidelity/UX_Goals.pdf Graphic file (type pdf)
 <use Med_Fidelity/UX_Goals.pdf>
-Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf  used on input line 218.
+Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf  used on input line 225.
 (pdftex.def)             Requested size: 597.43054pt x 845.07512pt.
 File: Med_Fidelity/UX_Goals.pdf Graphic file (type pdf)
 <use Med_Fidelity/UX_Goals.pdf>
-Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf  used on input line 218.
+Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf  used on input line 225.
 (pdftex.def)             Requested size: 597.43054pt x 845.07512pt.
-<Med_Fidelity/UX_Goals.pdf, id=450, page=1, 597.432pt x 845.07718pt>
+<Med_Fidelity/UX_Goals.pdf, id=635, page=1, 597.432pt x 845.07718pt>
 File: Med_Fidelity/UX_Goals.pdf Graphic file (type pdf)
 <use Med_Fidelity/UX_Goals.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 218.
+Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 483.7076pt x 684.21219pt.
 File: Med_Fidelity/UX_Goals.pdf Graphic file (type pdf)
 <use Med_Fidelity/UX_Goals.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 218.
+Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 737.38951pt x 1043.04933pt.
 File: Med_Fidelity/UX_Goals.pdf Graphic file (type pdf)
 <use Med_Fidelity/UX_Goals.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 218.
+Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 737.38951pt x 1043.04933pt.
 File: Med_Fidelity/UX_Goals.pdf Graphic file (type pdf)
 <use Med_Fidelity/UX_Goals.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 218.
+Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 737.38951pt x 1043.04933pt.
 File: Med_Fidelity/UX_Goals.pdf Graphic file (type pdf)
 <use Med_Fidelity/UX_Goals.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 218.
+Package pdftex.def Info: Med_Fidelity/UX_Goals.pdf , page1 used on input line 225.
 (pdftex.def)             Requested size: 737.38951pt x 1043.04933pt.
- [25 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/UX_Goals.pdf>]
-<Med_Fidelity/Med_Protocol/Med_Protocol.pdf, id=485, 597.50829pt x 845.0471pt>
+ [37 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/UX_Goals.pdf>]
+<Med_Fidelity/Med_Protocol/Med_Protocol.pdf, id=670, 597.50829pt x 845.0471pt>
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf  used on input line 227.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf  used on input line 236.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf  used on input line 227.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf  used on input line 236.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<Med_Fidelity/Med_Protocol/Med_Protocol.pdf, id=488, page=1, 597.50829pt x 845.0471pt>
+<Med_Fidelity/Med_Protocol/Med_Protocol.pdf, id=673, page=1, 597.50829pt x 845.0471pt>
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 227.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 236.
 (pdftex.def)             Requested size: 483.69643pt x 684.08469pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 227.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 236.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 227.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 236.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 227.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 236.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 227.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page1 used on input line 236.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
- [26 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Protocol/Med_Protocol.pdf>]
+ [38 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Protocol/Med_Protocol.pdf>]
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf  used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf  used on input line 243.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf  used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf  used on input line 243.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<Med_Fidelity/Med_Protocol/Med_Protocol.pdf, id=508, page=2, 597.50829pt x 845.0471pt>
+<Med_Fidelity/Med_Protocol/Med_Protocol.pdf, id=693, page=2, 597.50829pt x 845.0471pt>
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 243.
 (pdftex.def)             Requested size: 483.69643pt x 684.08469pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 243.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 243.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 243.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page2 used on input line 243.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
- [27 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Protocol/Med_Protocol.pdf>]
-<Med_Fidelity/Med_Protocol/Med_Protocol.pdf, id=528, page=3, 597.50829pt x 845.0471pt>
+ [39 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Protocol/Med_Protocol.pdf>]
+<Med_Fidelity/Med_Protocol/Med_Protocol.pdf, id=713, page=3, 597.50829pt x 845.0471pt>
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 3>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page3 used on input line 233.
-(pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
-File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
-<use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 3>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page3 used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page3 used on input line 243.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
 File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 3>
-Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page3 used on input line 233.
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page3 used on input line 243.
 (pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
- [28 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Protocol/Med_Protocol.pdf>]
-<Med_Fidelity/Med_Form.pdf, id=533, 598.15468pt x 846.0408pt>
+File: Med_Fidelity/Med_Protocol/Med_Protocol.pdf Graphic file (type pdf)
+<use Med_Fidelity/Med_Protocol/Med_Protocol.pdf, page 3>
+Package pdftex.def Info: Med_Fidelity/Med_Protocol/Med_Protocol.pdf , page3 used on input line 243.
+(pdftex.def)             Requested size: 737.48366pt x 1043.0122pt.
+ [40 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Protocol/Med_Protocol.pdf>]
+<Med_Fidelity/Med_Form.pdf, id=718, 597.19106pt x 844.11356pt>
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf  used on input line 242.
-(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf  used on input line 252.
+(pdftex.def)             Requested size: 597.1896pt x 844.1115pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf  used on input line 242.
-(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
-<Med_Fidelity/Med_Form.pdf, id=536, page=1, 598.15468pt x 846.0408pt>
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf  used on input line 252.
+(pdftex.def)             Requested size: 597.1896pt x 844.1115pt.
+<Med_Fidelity/Med_Form.pdf, id=721, page=1, 597.19106pt x 844.11356pt>
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 242.
-(pdftex.def)             Requested size: 483.71771pt x 684.1791pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 252.
+(pdftex.def)             Requested size: 483.69478pt x 683.6896pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 242.
-(pdftex.def)             Requested size: 738.28148pt x 1044.2387pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 252.
+(pdftex.def)             Requested size: 737.77556pt x 1042.82597pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 242.
-(pdftex.def)             Requested size: 738.28148pt x 1044.2387pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 252.
+(pdftex.def)             Requested size: 737.77556pt x 1042.82597pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 242.
-(pdftex.def)             Requested size: 738.28148pt x 1044.2387pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 252.
+(pdftex.def)             Requested size: 737.77556pt x 1042.82597pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 242.
-(pdftex.def)             Requested size: 738.28148pt x 1044.2387pt.
- [29 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Form.pdf>]
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page1 used on input line 252.
+(pdftex.def)             Requested size: 737.77556pt x 1042.82597pt.
+ [41 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Form.pdf>]
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf  used on input line 247.
-(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf  used on input line 258.
+(pdftex.def)             Requested size: 597.1896pt x 844.1115pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf  used on input line 247.
-(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
-<Med_Fidelity/Med_Form.pdf, id=566, page=2, 598.15468pt x 846.0408pt>
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf  used on input line 258.
+(pdftex.def)             Requested size: 597.1896pt x 844.1115pt.
+<Med_Fidelity/Med_Form.pdf, id=751, page=2, 597.19106pt x 844.11356pt>
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 247.
-(pdftex.def)             Requested size: 483.71771pt x 684.1791pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 258.
+(pdftex.def)             Requested size: 483.69478pt x 683.6896pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 247.
-(pdftex.def)             Requested size: 738.28148pt x 1044.2387pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 258.
+(pdftex.def)             Requested size: 737.77556pt x 1042.82597pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 247.
-(pdftex.def)             Requested size: 738.28148pt x 1044.2387pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 258.
+(pdftex.def)             Requested size: 737.77556pt x 1042.82597pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 247.
-(pdftex.def)             Requested size: 738.28148pt x 1044.2387pt.
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 258.
+(pdftex.def)             Requested size: 737.77556pt x 1042.82597pt.
 File: Med_Fidelity/Med_Form.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Form.pdf, page 2>
-Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 247.
-(pdftex.def)             Requested size: 738.28148pt x 1044.2387pt.
- [30 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Form.pdf>]
-<Med_Fidelity/Med_Slides.pdf, id=594, 597.73312pt x 845.40843pt>
+Package pdftex.def Info: Med_Fidelity/Med_Form.pdf , page2 used on input line 258.
+(pdftex.def)             Requested size: 737.77556pt x 1042.82597pt.
+ [42 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Form.pdf>]
+<Med_Fidelity/Med_Slides.pdf, id=779, 597.73312pt x 845.40843pt>
 File: Med_Fidelity/Med_Slides.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Slides.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf  used on input line 259.
+Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf  used on input line 270.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
 File: Med_Fidelity/Med_Slides.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Slides.pdf>
-Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf  used on input line 259.
+Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf  used on input line 270.
 (pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
-<Med_Fidelity/Med_Slides.pdf, id=597, page=1, 597.73312pt x 845.40843pt>
+<Med_Fidelity/Med_Slides.pdf, id=782, page=1, 597.73312pt x 845.40843pt>
 File: Med_Fidelity/Med_Slides.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Slides.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 259.
+Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 270.
 (pdftex.def)             Requested size: 483.70514pt x 684.13208pt.
 File: Med_Fidelity/Med_Slides.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Slides.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 259.
+Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 270.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Med_Slides.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Slides.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 259.
+Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 270.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Med_Slides.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Slides.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 259.
+Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 270.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
 File: Med_Fidelity/Med_Slides.pdf Graphic file (type pdf)
 <use Med_Fidelity/Med_Slides.pdf, page 1>
-Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 259.
+Package pdftex.def Info: Med_Fidelity/Med_Slides.pdf , page1 used on input line 270.
 (pdftex.def)             Requested size: 737.76117pt x 1043.45816pt.
- [31 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Slides.pdf
+ [43 <f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Slides.pdf
 
 pdfTeX warning: pdflatex (file f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Slides.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
+<./Med_Fidelity/Med_Report/images/SUS_table.PNG, id=799, 596.98032pt x 325.96782pt>
+File: ./Med_Fidelity/Med_Report/images/SUS_table.PNG Graphic file (type png)
+<use ./Med_Fidelity/Med_Report/images/SUS_table.PNG>
+Package pdftex.def Info: ./Med_Fidelity/Med_Report/images/SUS_table.PNG  used on input line 282.
+(pdftex.def)             Requested size: 483.69687pt x 264.11206pt.
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 281--284
+ [][] 
+ []
+
+[44 <./Med_Fidelity/Med_Report/images/SUS_table.PNG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
+ [45]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
  (f:/TEAN\Portfolio\Foodie\DECO2500_Report_42637460.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 274.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 274.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 300.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 300.
 Package rerunfilecheck Info: File `DECO2500_Report_42637460.out' has not changed.
-(rerunfilecheck)             Checksum: 84B11AA82B7E53F2F000A65F4E016F61;1259.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
+(rerunfilecheck)             Checksum: D4E1E1DC106C670E6B886B8D7257A44A;2119.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 300.
  ) 
 Here is how much of TeX's memory you used:
- 12811 strings out of 480934
- 214843 string characters out of 2899918
- 512288 words of memory out of 3000000
- 28327 multiletter control sequences out of 15000+200000
- 542044 words of font info for 61 fonts, out of 3000000 for 9000
+ 12959 strings out of 480934
+ 217891 string characters out of 2899918
+ 512815 words of memory out of 3000000
+ 28393 multiletter control sequences out of 15000+200000
+ 542691 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,21n,96p,1200b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on f:/TEAN\Portfolio\Foodie\DECO2500_Report_42637460.pdf (31 pages, 8603410 bytes).
+ 55i,21n,96p,1200b,629s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on f:/TEAN\Portfolio\Foodie\DECO2500_Report_42637460.pdf (45 pages, 10606192 bytes).
 PDF statistics:
- 646 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 506 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 863 PDF objects out of 1000 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
+ 640 words of extra memory for PDF output out of 10000 (max. 10000000)
 
