@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.7)  17 MAY 2020 00:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.7)  17 MAY 2020 22:51
 entering extended mode
 **f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Report/Med_Report.tex
 (f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Report/Med_Report.tex
@@ -610,7 +610,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 59.
 LaTeX Info: Redefining \pageref on input line 59.
 LaTeX Info: Redefining \nameref on input line 59.
- (f:/TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out) (f:/TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out)
 \@outlinefile=\write3
 \openout3 = `Med_Report.out'.
 
@@ -628,79 +627,167 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
  ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 5847) in paragraph at lines 119--120
-[]\OT1/cmr/m/n/12 Navigation bars con-sis-tent and
- []
-
-[1
+) [1
 
 {C:/Users/teanm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<./images/personas_overview.PNG, id=54, 1494.33281pt x 392.96812pt>
-File: ./images/personas_overview.PNG Graphic file (type png)
-<use ./images/personas_overview.PNG>
-Package pdftex.def Info: ./images/personas_overview.PNG  used on input line 252.
-(pdftex.def)             Requested size: 483.69687pt x 127.19745pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 251--253
+LaTeX Warning: File `./Med_Fidelity/Med_Report/images/colour_med.PNG' not found on input line 100.
+
+
+f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Report/Med_Report.tex:100: Package pdftex.def Error: File `./Med_Fidelity/Med_Report/images/colour_med.PNG' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 ...idelity/Med_Report/images/colour_med.PNG}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `./Med_Fidelity/Med_Report/images/font.PNG' not found on input line 112.
+
+
+f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Report/Med_Report.tex:112: Package pdftex.def Error: File `./Med_Fidelity/Med_Report/images/font.PNG' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 .../Med_Fidelity/Med_Report/images/font.PNG}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[2]
+
+LaTeX Warning: File `./Med_Fidelity/Med_Report/images/material_icons.PNG' not found on input line 124.
+
+
+f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Report/Med_Report.tex:124: Package pdftex.def Error: File `./Med_Fidelity/Med_Report/images/material_icons.PNG' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 ...ity/Med_Report/images/material_icons.PNG}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 123--126
  [][] 
  []
 
-[2 <./images/personas_overview.PNG>] [3]
-<./images/material_icons.PNG, id=86, 1026.08344pt x 210.03468pt>
-File: ./images/material_icons.PNG Graphic file (type png)
-<use ./images/material_icons.PNG>
-Package pdftex.def Info: ./images/material_icons.PNG  used on input line 297.
-(pdftex.def)             Requested size: 483.69687pt x 99.01115pt.
+[3]
+Overfull \hbox (14.1632pt too wide) in paragraph at lines 147--148
+[]\OT1/cmr/m/n/12 Icons ac-com-pa-nied by small text - Al-though se-lected icons should be pop-u-lar metaphors,
+ []
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 296--298
+[4] [5]
+
+LaTeX Warning: Hyper reference `sec:B.1' on page 6 undefined on input line 193.
+
+
+LaTeX Warning: File `./Med_Fidelity/Med_Report/images/personas_overview.PNG' not found on input line 197.
+
+
+f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Report/Med_Report.tex:197: Package pdftex.def Error: File `./Med_Fidelity/Med_Report/images/personas_overview.PNG' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.197 .../Med_Report/images/personas_overview.PNG}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 196--199
  [][] 
  []
 
-<./images/colour_med.PNG, id=87, 1029.09468pt x 302.63063pt>
-File: ./images/colour_med.PNG Graphic file (type png)
-<use ./images/colour_med.PNG>
-Package pdftex.def Info: ./images/colour_med.PNG  used on input line 304.
-(pdftex.def)             Requested size: 386.95897pt x 113.7956pt.
-<./images/font.PNG, id=88, 553.31718pt x 89.58469pt>
-File: ./images/font.PNG Graphic file (type png)
-<use ./images/font.PNG>
-Package pdftex.def Info: ./images/font.PNG  used on input line 311.
-(pdftex.def)             Requested size: 386.95897pt x 62.65005pt.
-[4 <./images/material_icons.PNG> <./images/colour_med.PNG>]
-<./images/med_prototype.PNG, id=97, 754.31813pt x 654.94687pt>
-File: ./images/med_prototype.PNG Graphic file (type png)
-<use ./images/med_prototype.PNG>
-Package pdftex.def Info: ./images/med_prototype.PNG  used on input line 325.
-(pdftex.def)             Requested size: 483.69687pt x 419.97406pt.
+[6]
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 324--326
+LaTeX Warning: Hyper reference `sec:B.2' on page 7 undefined on input line 203.
+
+[7]
+
+LaTeX Warning: Hyper reference `sec:B.3' on page 8 undefined on input line 214.
+
+[8]
+
+LaTeX Warning: File `./Med_Fidelity/Med_Report/images/med_proto_notes.PNG' not found on input line 246.
+
+
+f:/TEAN/Portfolio/Foodie/Med_Fidelity/Med_Report/Med_Report.tex:246: Package pdftex.def Error: File `./Med_Fidelity/Med_Report/images/med_proto_notes.PNG' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.246 ...ty/Med_Report/images/med_proto_notes.PNG}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 245--248
  [][] 
  []
 
-[5 <./images/font.PNG> <./images/med_prototype.PNG>] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
+[9]
+
+LaTeX Warning: Hyper reference `sec:B.4' on page 10 undefined on input line 259.
+
+
+LaTeX Warning: Hyper reference `sec:B.5' on page 10 undefined on input line 259.
+
+
+LaTeX Warning: Hyper reference `sec:B.1' on page 10 undefined on input line 259.
+
+
+LaTeX Warning: Hyper reference `sec:B.7' on page 10 undefined on input line 263.
+
+
+LaTeX Warning: Hyper reference `sec:B.8' on page 10 undefined on input line 263.
+
+[10] [11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
  (f:/TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
-Package rerunfilecheck Info: File `Med_Report.out' has not changed.
-(rerunfilecheck)             Checksum: ECA7B50D469978EA75013B31CD2C7BD8;672.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 400.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 336.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 336.
+
+
+Package rerunfilecheck Warning: File `Med_Report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Med_Report.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  C6FFAF5C90EEEEA630A386EA7C337430;722.
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 336.
  ) 
 Here is how much of TeX's memory you used:
- 12654 strings out of 480934
- 209165 string characters out of 2899918
- 512248 words of memory out of 3000000
- 28199 multiletter control sequences out of 15000+200000
- 538838 words of font info for 48 fonts, out of 3000000 for 9000
+ 12725 strings out of 480934
+ 212354 string characters out of 2899918
+ 512166 words of memory out of 3000000
+ 28248 multiletter control sequences out of 15000+200000
+ 539354 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,96p,978b,623s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on f:/TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.pdf (7 pages, 2149828 bytes).
+ 55i,8n,96p,978b,572s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on f:/TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.pdf (12 pages, 120280 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 65 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

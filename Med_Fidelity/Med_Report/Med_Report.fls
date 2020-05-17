@@ -179,14 +179,8 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcou
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
-INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
-INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
-INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
-OUTPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.pdf
-INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
-INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
 OUTPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
+OUTPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.pdf
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.sty
@@ -219,31 +213,8 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT images\personas_overview.PNG
-INPUT .\images\personas_overview.PNG
-INPUT .\images\personas_overview.PNG
-INPUT .\images\personas_overview.PNG
-INPUT .\images\personas_overview.PNG
-INPUT images\material_icons.PNG
-INPUT .\images\material_icons.PNG
-INPUT .\images\material_icons.PNG
-INPUT .\images\material_icons.PNG
-INPUT .\images\material_icons.PNG
-INPUT images\colour_med.PNG
-INPUT .\images\colour_med.PNG
-INPUT .\images\colour_med.PNG
-INPUT .\images\colour_med.PNG
-INPUT .\images\colour_med.PNG
-INPUT images\font.PNG
-INPUT .\images\font.PNG
-INPUT .\images\font.PNG
-INPUT .\images\font.PNG
-INPUT .\images\font.PNG
-INPUT images\med_prototype.PNG
-INPUT .\images\med_prototype.PNG
-INPUT .\images\med_prototype.PNG
-INPUT .\images\med_prototype.PNG
-INPUT .\images\med_prototype.PNG
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt12.tfm
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
 INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.aux
 INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
 INPUT f:\TEAN\Portfolio\Foodie\Med_Fidelity\Med_Report\Med_Report.out
@@ -255,5 +226,9 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfon
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt12.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb
