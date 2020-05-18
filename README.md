@@ -6,7 +6,7 @@ The aim of the project was to use user experience and design principles to creat
 
 
 # LOW FIDELITY
-![low_fidelity](./Low_Fidelity/Low_Prototype.PNG)
+![low_fidelity](./Low_Fidelity/Low_Prototype.png)
 
 # MEDIUM FIDELITY
 ![med_fidelity](./Med_Fidelity/Med_Prototype.PNG)
