@@ -58,6 +58,17 @@
 % Shapes
 \usepackage{amssymb}
 
+
+\usepackage{wrapfig}
+
+\usepackage{array}
+\newcolumntype{L}{>{\arraybackslash}m{5cm}}
+\newcolumntype{V}{>{\arraybackslash}m{10cm}}
+
+
+\definecolor{mygreen}{HTML}{008037}
+\definecolor{myblue}{HTML}{004AAD}
+\definecolor{myorange}{HTML}{FF914D}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
@@ -82,6 +93,35 @@ This report details the process and feedback of three iterations of the interact
 \pagebreak
 \input{Med_Fidelity/Med_Report/Med_Report}
 % 4 - HIGH FIDELITY PROTOTYPE SECTION
+\pagebreak
+\input{High_Fidelity/High_Report/High_Report}
+
+
+
+
+
+
+\section{Conclusion}
+The foundation of this application came to fruition through the initial research (both desk and interviews) performed during the development of the mind map. From this research, \textit{Foodie} has been developed and refined through three iterations of the design process. Each step involved the creation/modification of the conceptual design which in turn was applied to the prototype and then tested through various evaluation methods (both user and expert based). 
+    \begin{itemize}
+        \item Conceptual Design: The final conceptual design (system requirements and design principles) from these cycles can be viewed in \hyperref[sec:D.1]{Appendix D.1}.
+        \item Prototypes: The progression of the pages/features of the prototype can be viewed in \hyperref[sec:D.2]{Appendix D.2}. Each iteration is denoted by a different colour; \textcolor{mygreen}{low}, \textcolor{myblue}{medium} and \textcolor{myorange}{high}. 
+    \end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -257,9 +297,6 @@ This report details the process and feedback of three iterations of the interact
                 keepaspectratio,
                 frame, offset= 0 0cm]{Med_Fidelity/Med_Form.pdf}
 
-
-
-
     % Presentation
     \pagebreak     
     \includepdf[pages=1, 
@@ -273,19 +310,32 @@ This report details the process and feedback of three iterations of the interact
 
     % Questionnaire Results
     \pagebreak    
-    \subsection{Questionnaire Results}
+    \subsection{SUS Questionnaire Results}
     \label{sec:B.7} 
-    SUS Results.
+
+    \subsubsection*{Raw Data}
         \begin{figure} [H]
             \centering
             \includegraphics[width=\textwidth, frame]
-                {./Med_Fidelity/Med_Report/images/SUS_table.PNG}  
-                %{./images/med_proto_notes.PNG}
-            \caption{Medium Prototype}
+                {./Med_Fidelity/Med_SUS_Raw.PNG}  
+            \caption{SUS Raw Data}
         \end{figure}
-    Boxplot to be added.
-    % \includepdf[pages=1,pagecommand=\subsection{Questionnaire Results}, offset=0 -1cm]{Med_Fidelity/Med_Results.pdf}
-    % \includepdf[pages=2-]{Med_Fidelity/Med_Results.pdf}
+
+    \subsubsection*{SUS Scores (Steps 1-3)}
+        \begin{figure} [H]
+            \centering
+            \includegraphics[width=\textwidth, frame]
+                {./Med_Fidelity/Med_SUS_Scores.PNG}  
+            \caption{SUS Scores}
+        \end{figure}
+    
+    \subsubsection*{SUS Distribution (Step 4)}
+        \begin{figure} [H]
+            \centering
+            \includegraphics[width=\textwidth, frame]
+                {./Med_Fidelity/Med_SUS_Distrib.PNG}  
+            \caption{SUS Distribution}
+        \end{figure}
 
     % Notes 
     \pagebreak  
@@ -296,5 +346,126 @@ This report details the process and feedback of three iterations of the interact
 
 
 
+% HIGH FIDELITY 
+% Title
+\pagebreak
+\begin{center}
+    \vspace*{\stretch{0.7}}
+    \Huge \textbf{Appendices}
+    \section{High Fidelity Prototype}
+    \vspace*{\stretch{1}}
+\end{center}
 
+
+    % Evaluation Protocol
+    \pagebreak     
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Evaluation Protocol}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]
+                    {High_Fidelity/High_Protocol/High_Protocol.pdf}
+                    \label{sec:C.1}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, offset= 0 0cm]
+                    {High_Fidelity/High_Protocol/High_Protocol.pdf}
+
+    % Google Forms
+    \pagebreak     
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Google Forms}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]{High_Fidelity/High_Form.pdf}
+                \label{sec:C.2}
+    \includepdf[pages=2-, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, offset= 0 0cm]{High_Fidelity/High_Form.pdf}
+
+    % Presentation
+    \pagebreak     
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Presentation}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]{High_Fidelity/High_Slides.pdf}
+                \label{sec:C.3}
+    \includepdf[pages=2, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio,
+                frame, offset= 0 0cm]{High_Fidelity/High_Slides.pdf}
+
+    % Google Sheets
+    \pagebreak  
+    \subsection{Google Sheets}
+    \label{sec:C.4} 
+
+    \subsubsection*{Heuristics (Tab 1)}
+    \begin{figure} [H]
+        \centering
+        \includegraphics[width=\textwidth, frame]
+            {./High_Fidelity/High_Heuristics.PNG}
+    \end{figure}
+
+    \subsubsection*{Expert Notes Template (Tab 2)}
+    \begin{figure} [H]
+        \centering
+        \includegraphics[width=\textwidth, frame]
+            {./High_Fidelity/High_Expert_Template.PNG}
+    \end{figure}
+
+    % Expert Notes
+    \pagebreak     
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Expert Notes}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]{High_Fidelity/High_Notes.pdf}
+                \label{sec:C.5}
+
+
+% CONCLUSION
+% Title
+\pagebreak
+\begin{center}
+    \vspace*{\stretch{0.7}}
+    \Huge \textbf{Appendices}
+    \section{Overview}
+    \vspace*{\stretch{1}}
+\end{center}
+
+
+    % Conceptual Design
+    \pagebreak     
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Conceptual Design}, 
+                angle=90,
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]
+                    {Overview/Final_Conceptual_Design.pdf}
+                    \label{sec:D.1}
+
+    % Prototype Progression
+    \pagebreak     
+    \includepdf[pages=1, 
+                pagecommand=\subsection{Prototype Progression}, 
+                width=\textwidth,
+                height=\textheight,
+                keepaspectratio, 
+                frame, offset= 0 -0.5cm]
+                    {Overview/Final_Prototype_Progression.pdf}
+                    \label{sec:D.2}
+                    \pagebreak
 \end{document}
