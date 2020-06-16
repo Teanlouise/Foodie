@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.7)  17 MAY 2020 22:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.7)  14 JUN 2020 17:42
 entering extended mode
 **f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Report/Low_Report.tex
 (f:/TEAN/Portfolio/Foodie/Low_Fidelity/Low_Report/Low_Report.tex
@@ -199,29 +199,108 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box45
 \enit@count@id=\count193
 \enitdp@description=\count194
-) ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+) ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count195
+\mult@box=\box46
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count196
+\c@collectmore=\count197
+\doublecol@number=\count198
+\multicoltolerance=\count199
+\multicolpretolerance=\count266
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box47
+\last@line=\box48
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box49
+\mult@grightbox=\box50
+\mult@gfirstbox=\box51
+\mult@firstbox=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\c@minrows=\count267
+\c@columnbadness=\count268
+\c@finalcolumnbadness=\count269
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box90
+\colbreak@box=\box91
+\mc@col@check@num=\count270
+) ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count195
-\l__pdf_internal_box=\box46
+\l__kernel_color_stack_int=\count271
+\l__pdf_internal_box=\box92
 ) (f:/TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.aux)
 \openout1 = `Low_Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -259,20 +338,20 @@ LaTeX Font Info:    ... okay on input line 33.
 
 ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count196
-\scratchdimen=\dimen149
-\scratchbox=\box47
-\nofMPsegments=\count197
-\nofMParguments=\count198
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count199
-\MPscratchDim=\dimen150
-\MPnumerator=\count266
-\makeMPintoPDFobject=\count267
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count272
+\scratchdimen=\dimen158
+\scratchbox=\box93
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen159
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks22
 )
-\AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring ON on input line 33.
+\AtBeginShipoutBox=\box94
+Package hyperref Info: Link coloring ON on input line 37.
  ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
@@ -280,60 +359,68 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count268
+\c@section@level=\count278
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
  (f:/TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out) (f:/TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.out)
 \@outlinefile=\write3
 \openout3 = `Low_Report.out'.
 
- [1
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+ ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+ ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 
 {C:/Users/teanm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
-LaTeX Warning: Hyper reference `sec:A.1' on page 2 undefined on input line 51.
+LaTeX Warning: Hyper reference `sec:A.1' on page 2 undefined on input line 102.
 
 
-LaTeX Warning: Hyper reference `sec:A.2' on page 2 undefined on input line 51.
+LaTeX Warning: Hyper reference `sec:A.2' on page 2 undefined on input line 102.
+
+[2]
+
+LaTeX Warning: Hyper reference `sec:A.3' on page 3 undefined on input line 104.
 
 
-LaTeX Warning: Hyper reference `sec:A.3' on page 2 undefined on input line 53.
+LaTeX Warning: Hyper reference `sec:A.4' on page 3 undefined on input line 106.
 
 
-LaTeX Warning: Hyper reference `sec:A.4' on page 2 undefined on input line 55.
+LaTeX Warning: Hyper reference `sec:A.5' on page 3 undefined on input line 106.
 
-
-LaTeX Warning: Hyper reference `sec:A.5' on page 2 undefined on input line 55.
-
-[2] [3] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
+[3] [4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 169.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
  (f:/TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
 Package rerunfilecheck Info: File `Low_Report.out' has not changed.
-(rerunfilecheck)             Checksum: 41FAD363DD4E1C89FE3684DFF63D7608;327.
+(rerunfilecheck)             Checksum: DAEE173711508D06DF3C9D19E052DC1E;406.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
  ) 
 Here is how much of TeX's memory you used:
- 6815 strings out of 480934
- 106346 string characters out of 2899918
- 392906 words of memory out of 3000000
- 22579 multiletter control sequences out of 15000+200000
- 534184 words of font info for 30 fonts, out of 3000000 for 9000
+ 7474 strings out of 480934
+ 114138 string characters out of 2899918
+ 401237 words of memory out of 3000000
+ 23198 multiletter control sequences out of 15000+200000
+ 538838 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,37p,1167b,550s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on f:/TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.pdf (5 pages, 52078 bytes).
+ 34i,5n,37p,1167b,552s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on f:/TEAN\Portfolio\Foodie\Low_Fidelity\Low_Report\Low_Report.pdf (5 pages, 64785 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
