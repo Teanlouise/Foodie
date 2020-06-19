@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.7)  19 JUN 2020 01:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.7)  19 JUN 2020 13:45
 entering extended mode
 **f:/TEAN/Portfolio/Foodie/High_Fidelity/High_Report/High_Report.tex
 (f:/TEAN/Portfolio/Foodie/High_Fidelity/High_Report/High_Report.tex
@@ -637,25 +637,25 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 82.
  ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
  ("C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-LaTeX Warning: File `./High_Fidelity/High_Report/images/high_icons.PNG' not found on input line 91.
+LaTeX Warning: File `./High_Fidelity/High_Report/images/high_icons.PNG' not found on input line 93.
 
 
-f:/TEAN/Portfolio/Foodie/High_Fidelity/High_Report/High_Report.tex:91: Package pdftex.def Error: File `./High_Fidelity/High_Report/images/high_icons.PNG' not found: using draft setting.
+f:/TEAN/Portfolio/Foodie/High_Fidelity/High_Report/High_Report.tex:93: Package pdftex.def Error: File `./High_Fidelity/High_Report/images/high_icons.PNG' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.91 ...idelity/High_Report/images/high_icons.PNG}
+l.93 ...idelity/High_Report/images/high_icons.PNG}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -761,24 +761,24 @@ Package rerunfilecheck Warning: File `High_Report.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `High_Report.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  F27602F9DFDF087D10F4F866BDF565DE;1165.
+(rerunfilecheck)             After:  B54988EB07118E7D6699C62DFE2D8F1A;1090.
 
 LaTeX Warning: There were undefined references.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 435.
  ) 
 Here is how much of TeX's memory you used:
- 12793 strings out of 480934
- 213221 string characters out of 2899918
+ 12792 strings out of 480934
+ 213202 string characters out of 2899918
  516902 words of memory out of 3000000
  28334 multiletter control sequences out of 15000+200000
  539354 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,96p,1602b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,8n,96p,1604b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\teanm\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/teanm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on f:/TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.pdf (12 pages, 128366 bytes).
+Output written on f:/TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.pdf (12 pages, 132057 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

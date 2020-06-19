@@ -31,41 +31,40 @@
 \BOOKMARK [3][-]{subsubsection.4.1.1}{System Concept Statement}{subsection.4.1}% 31
 \BOOKMARK [3][-]{subsubsection.4.1.2}{Design Principles}{subsection.4.1}% 32
 \BOOKMARK [3][-]{subsubsection.4.1.3}{System Requirements}{subsection.4.1}% 33
-\BOOKMARK [3][-]{subsubsection.4.1.4}{Informed Models}{subsection.4.1}% 34
-\BOOKMARK [3][-]{subsubsection.4.1.5}{UX Goals}{subsection.4.1}% 35
-\BOOKMARK [2][-]{subsection.4.2}{High Fidelity Prototype}{section.4}% 36
-\BOOKMARK [3][-]{subsubsection.4.2.1}{Interface Design}{subsection.4.2}% 37
-\BOOKMARK [3][-]{subsubsection.4.2.2}{Interface Functionality}{subsection.4.2}% 38
-\BOOKMARK [2][-]{subsection.4.3}{High Fidelity Prototype Evaluation}{section.4}% 39
-\BOOKMARK [3][-]{subsubsection.4.3.1}{Evaluation Methods}{subsection.4.3}% 40
-\BOOKMARK [3][-]{subsubsection.4.3.2}{Evaluation Protocol}{subsection.4.3}% 41
-\BOOKMARK [3][-]{subsubsection.4.3.3}{Evaluation Results}{subsection.4.3}% 42
-\BOOKMARK [3][-]{subsubsection.4.3.4}{Evaluation Analysis}{subsection.4.3}% 43
-\BOOKMARK [1][-]{section.5}{Summary \(Release 2\)}{}% 44
-\BOOKMARK [1][-]{section.6}{Conclusion}{}% 45
-\BOOKMARK [1][-]{section.7}{References}{}% 46
-\BOOKMARK [1][-]{section*.16}{Appendices}{}% 47
-\BOOKMARK [1][-]{appendix.A}{Low Fidelity Prototype}{}% 48
-\BOOKMARK [2][-]{subsection.A.1}{Evaluation Protocol}{appendix.A}% 49
-\BOOKMARK [2][-]{subsection.A.2}{Google Forms}{appendix.A}% 50
-\BOOKMARK [2][-]{subsection.A.3}{Presentation}{appendix.A}% 51
-\BOOKMARK [2][-]{subsection.A.4}{Questionnaire Results}{appendix.A}% 52
-\BOOKMARK [2][-]{subsection.A.5}{Interview Notes}{appendix.A}% 53
-\BOOKMARK [1][-]{appendix.B}{Medium Fidelity Prototype}{}% 54
-\BOOKMARK [2][-]{subsection.B.1}{Personas}{appendix.B}% 55
-\BOOKMARK [2][-]{subsection.B.2}{Interaction Scenarios}{appendix.B}% 56
-\BOOKMARK [2][-]{subsection.B.3}{UX Goals}{appendix.B}% 57
-\BOOKMARK [2][-]{subsection.B.4}{Evaluation Protocol}{appendix.B}% 58
-\BOOKMARK [2][-]{subsection.B.5}{Evaluation - Google Forms}{appendix.B}% 59
-\BOOKMARK [2][-]{subsection.B.6}{Evaluation - Presentation}{appendix.B}% 60
-\BOOKMARK [2][-]{subsection.B.7}{Evaluation - SUS Results}{appendix.B}% 61
-\BOOKMARK [2][-]{subsection.B.8}{Evaluation - Notes}{appendix.B}% 62
-\BOOKMARK [1][-]{appendix.C}{High Fidelity Prototype}{}% 63
-\BOOKMARK [2][-]{subsection.C.1}{Evaluation Protocol}{appendix.C}% 64
-\BOOKMARK [2][-]{subsection.C.2}{Evaluation - Google Forms}{appendix.C}% 65
-\BOOKMARK [2][-]{subsection.C.3}{Evaluation - Presentation}{appendix.C}% 66
-\BOOKMARK [2][-]{subsection.C.4}{Evaluation - Notes Template}{appendix.C}% 67
-\BOOKMARK [2][-]{subsection.C.5}{Evaluation - Expert Notes}{appendix.C}% 68
-\BOOKMARK [1][-]{appendix.D}{Summary}{}% 69
-\BOOKMARK [2][-]{subsection.D.1}{Conceptual Design}{appendix.D}% 70
-\BOOKMARK [2][-]{subsection.D.2}{Prototype Progression}{appendix.D}% 71
+\BOOKMARK [3][-]{subsubsection.4.1.4}{UX Goals}{subsection.4.1}% 34
+\BOOKMARK [2][-]{subsection.4.2}{High Fidelity Prototype}{section.4}% 35
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Interface Design}{subsection.4.2}% 36
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Interface Functionality}{subsection.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.3}{High Fidelity Prototype Evaluation}{section.4}% 38
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Evaluation Methods}{subsection.4.3}% 39
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Evaluation Protocol}{subsection.4.3}% 40
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Evaluation Results}{subsection.4.3}% 41
+\BOOKMARK [3][-]{subsubsection.4.3.4}{Evaluation Analysis}{subsection.4.3}% 42
+\BOOKMARK [1][-]{section.5}{Summary \(Release 2\)}{}% 43
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 44
+\BOOKMARK [1][-]{section.7}{References}{}% 45
+\BOOKMARK [1][-]{section*.16}{Appendices}{}% 46
+\BOOKMARK [1][-]{appendix.A}{Low Fidelity Prototype}{}% 47
+\BOOKMARK [2][-]{subsection.A.1}{Evaluation Protocol}{appendix.A}% 48
+\BOOKMARK [2][-]{subsection.A.2}{Google Forms}{appendix.A}% 49
+\BOOKMARK [2][-]{subsection.A.3}{Presentation}{appendix.A}% 50
+\BOOKMARK [2][-]{subsection.A.4}{Questionnaire Results}{appendix.A}% 51
+\BOOKMARK [2][-]{subsection.A.5}{Interview Notes}{appendix.A}% 52
+\BOOKMARK [1][-]{appendix.B}{Medium Fidelity Prototype}{}% 53
+\BOOKMARK [2][-]{subsection.B.1}{Personas}{appendix.B}% 54
+\BOOKMARK [2][-]{subsection.B.2}{Interaction Scenarios}{appendix.B}% 55
+\BOOKMARK [2][-]{subsection.B.3}{UX Goals}{appendix.B}% 56
+\BOOKMARK [2][-]{subsection.B.4}{Evaluation Protocol}{appendix.B}% 57
+\BOOKMARK [2][-]{subsection.B.5}{Evaluation - Google Forms}{appendix.B}% 58
+\BOOKMARK [2][-]{subsection.B.6}{Evaluation - Presentation}{appendix.B}% 59
+\BOOKMARK [2][-]{subsection.B.7}{Evaluation - SUS Results}{appendix.B}% 60
+\BOOKMARK [2][-]{subsection.B.8}{Evaluation - Notes}{appendix.B}% 61
+\BOOKMARK [1][-]{appendix.C}{High Fidelity Prototype}{}% 62
+\BOOKMARK [2][-]{subsection.C.1}{Evaluation Protocol}{appendix.C}% 63
+\BOOKMARK [2][-]{subsection.C.2}{Evaluation - Google Forms}{appendix.C}% 64
+\BOOKMARK [2][-]{subsection.C.3}{Evaluation - Presentation}{appendix.C}% 65
+\BOOKMARK [2][-]{subsection.C.4}{Evaluation - Notes Template}{appendix.C}% 66
+\BOOKMARK [2][-]{subsection.C.5}{Evaluation - Expert Notes}{appendix.C}% 67
+\BOOKMARK [1][-]{appendix.D}{Summary}{}% 68
+\BOOKMARK [2][-]{subsection.D.1}{Conceptual Design}{appendix.D}% 69
+\BOOKMARK [2][-]{subsection.D.2}{Prototype Progression}{appendix.D}% 70

@@ -5,8 +5,9 @@ The aim of the project was to use user experience and design principles to creat
 [![video](/MindMap/Presentation_Image.png)](https://youtu.be/BRX7kF7ynSQ)
 
 
-### CONCEPTUAL DESGIN
-![conceptual_design](./Final_Conceptual_Design.png)
+# CONCEPTUAL DESIGN
+![conceptual_design](./Conceptual_Design.png)
+![personas](./Personas.png)
 
 # LOW FIDELITY
 ![low_fidelity](./Low_Fidelity/Low_Prototype.png)
