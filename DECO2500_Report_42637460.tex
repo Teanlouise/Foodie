@@ -2,13 +2,13 @@
 \documentclass[a4 paper, 12pt]{article}
 
 % Title
-\title{DECO2500 - INDIVIDUAL REPORT \\ Feedback 2}
+\title{DECO2500 \\ INDIVIDUAL REPORT}
 \author{Tean-louise Cunningham (42637460)}
 \date{\today}
 
 % Margins
 \usepackage{geometry}
-\geometry{margin=2cm}
+\geometry{margin=1.5cm}
 
 % Images
 \usepackage{graphicx}
@@ -18,7 +18,7 @@
 \usepackage[font=small,skip=2pt]{caption}
 
 % Paragraph
-\setlength{\parindent}{2em}
+\setlength{\parindent}{0em}
 \setlength{\parskip}{1em}
 
 % Text Formatting
@@ -29,6 +29,7 @@
 \usepackage{enumitem}
 \setlist{noitemsep, topsep=0pt}
 \setlist[enumerate]{parsep=5pt} 
+\setlist[itemize]{parsep=5pt} 
 
 % Text Color
 \usepackage{xcolor}
@@ -37,7 +38,7 @@
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=black,
+    linkcolor=blue,
     filecolor=black,      
     urlcolor=blue,
 }
@@ -62,8 +63,8 @@
 \usepackage{wrapfig}
 
 \usepackage{array}
-\newcolumntype{L}{>{\arraybackslash}m{5cm}}
-\newcolumntype{V}{>{\arraybackslash}m{10cm}}
+\newcolumntype{L}{>{\arraybackslash}m{4cm}}
+\newcolumntype{V}{>{\arraybackslash}m{6cm}}
 
 
 \definecolor{mygreen}{HTML}{008037}
@@ -73,6 +74,11 @@
 
 \begin{document}
 \maketitle
+\begin{figure} [H]
+    \centering
+    \includegraphics[width=0.3\textwidth]
+        {title.PNG} 
+\end{figure}  
 
 \pagebreak
 \tableofcontents
@@ -96,32 +102,44 @@ This report details the process and feedback of three iterations of the interact
 \pagebreak
 \input{High_Fidelity/High_Report/High_Report}
 
+\pagebreak
+% NEXT STEPS
+\section{Summary (Release 2)}
+In summary, there have been three iterations of the human interaction cycle. The outcome of these cycles have been compiled and summarised for reference of progression. User research should be done at all stages so this is no way a complete list [46]. The final conceptual design (metaphors, system requirements, design principles, UX Goals) from these cycles can be viewed in \hyperref[sec:D.1]{Appendix D.1}. The progression of the prototype interface can be viewed in \hyperref[sec:D.2]{Appendix D.2}. Each iteration is denoted by a different colour; \textcolor{mygreen}{low}, \textcolor{myblue}{medium} and \textcolor{myorange}{high}. 
 
+The next step would be to complete another iteration cycle. This would include updating the conceptual design (metaphors, system requirements, design principles), UX goals and prototype. Without going into full detail of these changes, the new metaphors to be introduced would be related to a refresh/reload action as well as repurposing the cross metaphor as the cancel option when checking user's navigation. A new design guideline would be introduced 'minimal effort' to ensure user's don't have issues with the selectability (particularly of dropdowns) again. There are a few system requirements that were previously mentioned by users and research that were beyond the scope of release 1. These include the ability to follow other users, save lists for future self use or or for others to view, and a voting system with the comparison list.
 
+In order of severity ratings as outlined in the high fidelity evaluation analysis, these are ideas for changes that could be applied to the next prototype iteration only focusing on what can be improved with the conceptual design from release 1. 
+\smallskip
+    \begin{enumerate}[noitemsep,topsep=0pt]
+        \item The whole box of a dropdown needs to be made selectable. $\dashrightarrow$ Fitts Law
+        \item The text of options in the dropdown should be selectable. $\dashrightarrow$ Fitts Law
+        \item Once an option has been selected in a dropdown users should not to worry about how they exit the overlay and should be saved no matter their next click. $\dashrightarrow$ Fitts Law
+        \item Remove the edit action icon on the compare page. Instead a delete option, using the bin metaphor, will be added to the existing list of actions in the overlay when selecting an option on this page. This reduces the number of steps from 4 to 2 and replicates the same behaviour as the saved page. $\dashrightarrow$ Consistency
+        \item Prompt user to save defaults if they haven't selected before exiting page.
+        \item Support the display of more information when selecting the recommendations/reviews on restaurant page i.e. which friends voted.
+        \item Remove the home button from the main page.
+        \item Have a reset option as an icon the main page (less obvious than the GO button as it is less used) and when select prompt the user to confirm they want to reset.
+        \item Add favourite action icon to overlay on history page.
+        \item Add accelerator to favourite and compare buttons, long press to be directed straight there.        
+    \end{enumerate}
+    
+    \begin{figure} [H]
+        \centering
+        \includegraphics[width=0.9\textwidth, frame]
+            {./Summary/next_prototype.PNG} 
+        \caption{Release 2 Prototype}
+    \end{figure}  
 
-
-
+\pagebreak
+% CONCLUSION
 \section{Conclusion}
-The foundation of this application came to fruition through the initial research (both desk and interviews) performed during the development of the mind map. From this research, \textit{Foodie} has been developed and refined through three iterations of the design process. Each step involved the creation/modification of the conceptual design which in turn was applied to the prototype and then tested through various evaluation methods (both user and expert based). 
-    \begin{itemize}
-        \item Conceptual Design: The final conceptual design (system requirements and design principles) from these cycles can be viewed in \hyperref[sec:D.1]{Appendix D.1}.
-        \item Prototypes: The progression of the pages/features of the prototype can be viewed in \hyperref[sec:D.2]{Appendix D.2}. Each iteration is denoted by a different colour; \textcolor{mygreen}{low}, \textcolor{myblue}{medium} and \textcolor{myorange}{high}. 
-    \end{itemize}
+The foundation of this application came to fruition through the initial research (both desk and interviews) performed during the development of the mind map. From this research, \textit{Foodie} has been developed and refined through three iterations of the design process. Each step involved the creation/modification of the conceptual design which in turn was applied to the prototype and then tested through various evaluation methods (both user and expert based). In each iteration the gap between the gulf of execution and evaluation continued to close, mental models were better aligned, consistency throughout the system achieved, UX goals met and cognitive overload reduced using various techniques. Overall, while there are still improvements to be made to release 2, as briefly mentioned, the project started with identifying an issue and ended with a useable and accepted application. Users can now happily make the decision of where to dine out.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+\pagebreak
+% REFERENCES
+\includepdf[pages=1, pagecommand=\section{References}, offset=0 -0.5cm]{references.pdf}
+\includepdf[pages=2-, offset=0 0cm]{references.pdf}
 
 
 
@@ -156,7 +174,7 @@ The foundation of this application came to fruition through the initial research
                 width=\textwidth,
                 height=\textheight,
                 keepaspectratio, 
-                frame, offset= 0 -0.5cm]
+                frame, offset= 0 -1.5cm]
                     {Low_Fidelity/Low_Protocol/Low_Protocol.pdf}
                     \label{sec:A.1}
     \includepdf[pages=2-, 
@@ -285,7 +303,7 @@ The foundation of this application came to fruition through the initial research
     % Google Forms
     \pagebreak     
     \includepdf[pages=1, 
-                pagecommand=\subsection{Google Forms}, 
+                pagecommand=\subsection{Evaluation - Google Forms}, 
                 width=\textwidth,
                 height=\textheight,
                 keepaspectratio, 
@@ -300,7 +318,7 @@ The foundation of this application came to fruition through the initial research
     % Presentation
     \pagebreak     
     \includepdf[pages=1, 
-                pagecommand=\subsection{Presentation}, 
+                pagecommand=\subsection{Evaluation - Presentation}, 
                 width=\textwidth,
                 height=\textheight,
                 keepaspectratio, 
@@ -310,13 +328,13 @@ The foundation of this application came to fruition through the initial research
 
     % Questionnaire Results
     \pagebreak    
-    \subsection{SUS Questionnaire Results}
+    \subsection{Evaluation - SUS Results}
     \label{sec:B.7} 
 
     \subsubsection*{Raw Data}
         \begin{figure} [H]
             \centering
-            \includegraphics[width=\textwidth, frame]
+            \includegraphics[width=0.9\textwidth, frame]
                 {./Med_Fidelity/Med_SUS_Raw.PNG}  
             \caption{SUS Raw Data}
         \end{figure}
@@ -324,7 +342,7 @@ The foundation of this application came to fruition through the initial research
     \subsubsection*{SUS Scores (Steps 1-3)}
         \begin{figure} [H]
             \centering
-            \includegraphics[width=\textwidth, frame]
+            \includegraphics[width=0.9\textwidth, frame]
                 {./Med_Fidelity/Med_SUS_Scores.PNG}  
             \caption{SUS Scores}
         \end{figure}
@@ -332,19 +350,21 @@ The foundation of this application came to fruition through the initial research
     \subsubsection*{SUS Distribution (Step 4)}
         \begin{figure} [H]
             \centering
-            \includegraphics[width=\textwidth, frame]
+            \includegraphics[width=0.9\textwidth, frame]
                 {./Med_Fidelity/Med_SUS_Distrib.PNG}  
             \caption{SUS Distribution}
         \end{figure}
 
-    % Notes 
-    \pagebreak  
-    \subsection{Notes}     
-    \label{sec:B.8}     
-    To be added.
-    % \includepdf[pages=-,pagecommand=\subsection{Interview Notes}, offset=0 -1.5cm]{Med_Fidelity/Med_Notes.pdf}
+    % Notes
 
-
+    \pagebreak     
+    \includepdf[pages=-, 
+                pagecommand=\subsection{Evaluation - Notes}, 
+                %width=\textwidth,
+                %height=\textheight,
+                keepaspectratio, 
+                offset= 0 0cm]{Med_Fidelity/Med_Notes.pdf}
+                \label{sec:B.8}
 
 % HIGH FIDELITY 
 % Title
@@ -377,7 +397,7 @@ The foundation of this application came to fruition through the initial research
     % Google Forms
     \pagebreak     
     \includepdf[pages=1, 
-                pagecommand=\subsection{Google Forms}, 
+                pagecommand=\subsection{Evaluation - Google Forms}, 
                 width=\textwidth,
                 height=\textheight,
                 keepaspectratio, 
@@ -392,7 +412,7 @@ The foundation of this application came to fruition through the initial research
     % Presentation
     \pagebreak     
     \includepdf[pages=1, 
-                pagecommand=\subsection{Presentation}, 
+                pagecommand=\subsection{Evaluation - Presentation}, 
                 width=\textwidth,
                 height=\textheight,
                 keepaspectratio, 
@@ -406,31 +426,31 @@ The foundation of this application came to fruition through the initial research
 
     % Google Sheets
     \pagebreak  
-    \subsection{Google Sheets}
+    \subsection{Evaluation - Notes Template}
     \label{sec:C.4} 
 
     \subsubsection*{Heuristics (Tab 1)}
     \begin{figure} [H]
         \centering
-        \includegraphics[width=\textwidth, frame]
+        \includegraphics[width=0.9\textwidth, frame]
             {./High_Fidelity/High_Heuristics.PNG}
     \end{figure}
 
     \subsubsection*{Expert Notes Template (Tab 2)}
+
     \begin{figure} [H]
         \centering
-        \includegraphics[width=\textwidth, frame]
+        \includegraphics[width=0.9\textwidth, frame]
             {./High_Fidelity/High_Expert_Template.PNG}
     \end{figure}
 
     % Expert Notes
     \pagebreak     
     \includepdf[pages=1, 
-                pagecommand=\subsection{Expert Notes}, 
-                width=\textwidth,
-                height=\textheight,
-                keepaspectratio, 
-                frame, offset= 0 -0.5cm]{High_Fidelity/High_Notes.pdf}
+                pagecommand=\subsection{Evaluation - Expert Notes}, 
+                %width=\textwidth,
+                %height=\textheight,
+                keepaspectratio, offset= 0 -0.5cm]{High_Fidelity/High_Notes.pdf}
                 \label{sec:C.5}
 
 
@@ -440,7 +460,7 @@ The foundation of this application came to fruition through the initial research
 \begin{center}
     \vspace*{\stretch{0.7}}
     \Huge \textbf{Appendices}
-    \section{Overview}
+    \section{Summary}
     \vspace*{\stretch{1}}
 \end{center}
 
@@ -448,24 +468,24 @@ The foundation of this application came to fruition through the initial research
     % Conceptual Design
     \pagebreak     
     \includepdf[pages=1, 
-                pagecommand=\subsection{Conceptual Design}, 
-                angle=90,
+                pagecommand=\subsection{Conceptual Design},              
                 width=\textwidth,
                 height=\textheight,
                 keepaspectratio, 
                 frame, offset= 0 -0.5cm]
-                    {Overview/Final_Conceptual_Design.pdf}
+                    {Summary/Conceptual_Design.pdf}
                     \label{sec:D.1}
 
     % Prototype Progression
-    \pagebreak     
+    \pagebreak   
+    \label{sec:D.2}  
     \includepdf[pages=1, 
                 pagecommand=\subsection{Prototype Progression}, 
                 width=\textwidth,
                 height=\textheight,
                 keepaspectratio, 
                 frame, offset= 0 -0.5cm]
-                    {Overview/Final_Prototype_Progression.pdf}
-                    \label{sec:D.2}
-                    \pagebreak
+                    {Summary/Prototype_Progression.pdf}
+                    
+
 \end{document}
