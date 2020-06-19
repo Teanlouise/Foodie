@@ -183,14 +183,8 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcou
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
-INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
-INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
-INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
-OUTPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.pdf
-INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
-INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
 OUTPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
+OUTPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.pdf
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.sty
@@ -222,18 +216,9 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
-INPUT images\high_proto_notes.PNG
-INPUT .\images\high_proto_notes.PNG
-INPUT .\images\high_proto_notes.PNG
-INPUT .\images\high_proto_notes.PNG
-INPUT .\images\high_proto_notes.PNG
-INPUT images\high_heuristic_severity.PNG
-INPUT .\images\high_heuristic_severity.PNG
-INPUT .\images\high_heuristic_severity.PNG
-INPUT .\images\high_heuristic_severity.PNG
-INPUT .\images\high_heuristic_severity.PNG
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt12.tfm
+INPUT C:\Users\teanm\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.aux
 INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
 INPUT f:\TEAN\Portfolio\Foodie\High_Fidelity\High_Report\High_Report.out
@@ -247,5 +232,7 @@ INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfon
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt12.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb
 INPUT C:\Users\teanm\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb
